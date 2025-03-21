@@ -12,15 +12,8 @@ st.sidebar.image(logo, use_container_width=True)
 
 with st.sidebar:
     st.markdown("""
-        # Introducción a la Isotopía en Hidrogeología
-
-        El uso de isótopos en hidrogeología permite rastrear el origen, la edad y los procesos que afectan al agua subterránea. Los isótopos pueden ser estables, como el **oxígeno-18 (¹⁸O) y el deuterio (²H)**, o radiactivos, como el **tritio (³H) y el carbono-14 (¹⁴C)**, cada uno con aplicaciones específicas en la evaluación de recursos hídricos.
-        
-        Estos trazadores isotópicos proporcionan información clave sobre procesos como la **recarga acuífera, la evaporación, la mezcla de masas de agua y la contaminación**. La relación entre la composición isotópica y factores ambientales como la altitud, la latitud y el clima permite interpretar la evolución y la dinámica de los sistemas hídricos.
-        
-        La hidrogeología isotópica es una herramienta fundamental en la gestión del agua, contribuyendo a la identificación de fuentes de abastecimiento, la detección de sobreexplotación y la evaluación de la contaminación tanto natural como antrópica.
-
-    """)
+        # Isotopía en Hidrogeología
+        """)
     st.markdown("<br><br><br>", unsafe_allow_html=True)  # Ajusta el número de <br> según necesites
 
     st.sidebar.image("images/Profile.png", width=80)
@@ -33,3 +26,13 @@ with st.sidebar:
         """,
         unsafe_allow_html=True
     )
+st.markdown("""
+# Introducción a la Isotopía en Hidrogeología
+
+El uso de isótopos en hidrogeología permite rastrear el origen, la edad y los procesos que afectan al agua subterránea. Los isótopos pueden ser estables, como el **oxígeno-18 (¹⁸O) y el deuterio (²H)**, o radiactivos, como el **tritio (³H) y el carbono-14 (¹⁴C)**, cada uno con aplicaciones específicas en la evaluación de recursos hídricos.
+
+Estos trazadores isotópicos proporcionan información clave sobre procesos como la **recarga acuífera, la evaporación, la mezcla de masas de agua y la contaminación**. La relación entre la composición isotópica y factores ambientales como la altitud, la latitud y el clima permite interpretar la evolución y la dinámica de los sistemas hídricos.
+
+La hidrogeología isotópica es una herramienta fundamental en la gestión del agua, contribuyendo a la identificación de fuentes de abastecimiento, la detección de sobreexplotación y la evaluación de la contaminación tanto natural como antrópica.
+
+""")
