@@ -2,7 +2,7 @@ import streamlit as st
 from PIL import Image
 
 # Set the title of the app
-st.title("Isótopos Estables")
+st.title("Isótopos en hidrogeología")
 
 logo = Image.open("images/PageImage.png")  # Reemplaza con la ruta de tu logo
 
