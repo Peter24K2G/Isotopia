@@ -1,0 +1,607 @@
+﻿ID,Fecha,Informacion,Conductividad (μS/cm),Temperatura (°C),pH,x,y,Elevacion,Profundidad,Latitud,Longitud,2H,18O,comment,d-excess,Nombre,Tipo_Fuente,Localizacion_geologia,Tipo,Fuente,Mes,Temporada,P (mm),Año,UnidadGeologicaProf,UnidadGeoProf,NIDOS
+K34,05/01/2022,,,,,,,1921,,7.867,-74.167,-128.83,-17.22,,8.93,Escuela Agrícola Cachira,Lluvia,Sur,Lluvia,Kale_lluvia,5,Transición,,2022,,,
+M20153,11/28/2023,,,,,,,90,,7.867,-74.167,-116.19,-16.45,,15.41,TOTALIZADOR 5,Lluvia,Sur,Lluvia,ANH-SGI,12,Seca,,2023,,,
+M20151,11/28/2023,,,,,,,1339,,7.867,-74.167,-112.1,-15.85,,14.7,TOTALIZADOR 3,Lluvia,Sur,Lluvia,ANH-SGI,12,Seca,,2023,,,
+M20152,11/28/2023,,,,,,,807,,7.867,-74.167,-109.69,-14.62,,7.27,TOTALIZADOR 4,Lluvia,Sur,Lluvia,ANH-SGI,12,Seca,,2023,,,
+M20374,11/28/2023,,,,,,,807,,7.867,-74.167,-108.61,-15.33,,14.03,TOTALIZADOR 4,Lluvia,Sur,Lluvia,ANH-SGI,12,Seca,,2023,,,
+M19979,11/16/2023,,,,,,,807,,7.867,-74.167,-107.7,-15.18,,13.74,TOTALIZADOR 4,Lluvia,Sur,Lluvia,ANH-SGI,12,Seca,,2023,,,
+M19982,11/16/2023,,,,,,,542,,7.867,-74.167,-106.59,-14.7,,11.01,TOTALIZADOR 7,Lluvia,Sur,Lluvia,ANH-SGI,12,Seca,,2023,,,
+,05/15/2005,,,,,,,996,,7.867,-74.167,-104.79,-14.4,Apto Bucaramanga,10.41,Apto Bucaramanga,Lluvia,Sur,Lluvia,GNIP,5,,,2005,J3g,J,
+M19976,11/16/2023,,,,,,,1731,,7.867,-74.167,-102.55,-14.49,,13.37,TOTALIZADOR 1,Lluvia,Sur,Lluvia,ANH-SGI,12,Seca,,2023,,,
+M20149,11/28/2023,,,,,,,1731,,7.867,-74.167,-100.84,-14.06,,11.64,TOTALIZADOR 1,Lluvia,Sur,Lluvia,ANH-SGI,12,Seca,,2023,,,
+K88,11/01/2022,,,,,,,1921,,7.867,-74.167,-100.62,-14.05,,11.78,Escuela Agrícola Cachira,Lluvia,Sur,Lluvia,Kale_lluvia,11,Humeda,,2022,,,
+M20377,11/28/2023,,,,,,,542,,7.621,-74.075,-99.81,-13.09,,4.91,TOTALIZADOR 7,Lluvia,Sur,Lluvia,ANH-SGI,12,Seca,,2023,,,
+K35,05/01/2022,,,,,,,738,,7.621,-74.075,-98.78,-13.04,,5.54,Estación Llano Grande,Lluvia,Sur,Lluvia,Kale_lluvia,5,Transición,,2022,,,
+K58,07/01/2022,,,,,,,402,,7.621,-74.075,-98.71,-13.3,,7.69,Predio No hay como la mano de Dios,Lluvia,Sur,Lluvia,Kale_lluvia,7,Transición,,2022,,,
+,06/30/2006,,,,,1112405.21,1279835.16,1803,,7.621,-74.075,-97.75,-13.27,La Galvicia,8.41,La Galvicia,Lluvia,Sur,Lluvia,GNIP,6,,,2006,NPb,,
+K38,05/01/2022,,,,,,,1432,,7.621,-74.075,-96.27,-12.76,,5.81,Estación Oiba,Lluvia,Sur,Lluvia,Kale_lluvia,5,Transición,,2022,,,
+M19981,11/16/2023,,,,,,,56,,7.621,-74.075,-96.24,-13.26,,9.84,TOTALIZADOR 6,Lluvia,Sur,Lluvia,ANH-SGI,12,Seca,,2023,,,
+M20156,11/28/2023,,,,,,,252,,7.621,-74.075,-95.88,-13.06,,8.6,TOTALIZADOR 8,Lluvia,Sur,Lluvia,ANH-SGI,12,Seca,,2023,,,
+M20376,11/28/2023,,,,,,,56,,7.621,-74.075,-95,-13.17,,10.36,TOTALIZADOR 6,Lluvia,Sur,Lluvia,ANH-SGI,12,Seca,,2023,,,
+M20150,11/28/2023,,,,,,,1522,,7.621,-74.075,-93.95,-13.29,,12.37,TOTALIZADOR 2,Lluvia,Sur,Lluvia,ANH-SGI,12,Seca,,2023,,,
+M19978,11/16/2023,,,,,,,1339,,7.621,-74.075,-93.95,-13.34,,12.77,TOTALIZADOR 3,Lluvia,Sur,Lluvia,ANH-SGI,12,Seca,,2023,,,
+K83,10/01/2022,,,,,,,1432,,7.621,-74.075,-93.76,-12.99,,10.16,Estación Oiba,Lluvia,Sur,Lluvia,Kale_lluvia,10,Humeda,,2022,,,
+K54,07/01/2022,,,,,,,996,,7.621,-74.075,-93.75,-12.68,,7.69,Estación de la UIS,Lluvia,Sur,Lluvia,Kale_lluvia,7,Transición,,2022,,,
+M20155,11/28/2023,,,,,,,542,,7,-74,-93.64,-13.19,,11.88,TOTALIZADOR 7,Lluvia,Sur,Lluvia,ANH-SGI,12,Seca,,2023,,,
+K37,05/01/2022,,,,,,,1038,,7,-74,-93.58,-12.59,,7.14,Estación Los Canelos,Lluvia,Sur,Lluvia,Kale_lluvia,5,Transición,,2022,,,
+S74,11/05/2020,,,,,1019830,1304488,30,0,7,-74,-68.67,-9.86,M-Pto Wilches,10.21,Lluvia Puerto Wilches,Lluvia,Sur,Lluvia,Campo,11,Humeda,,2020,Q,Q,Sur
+,05/31/2005,,,,,1112405.21,1279835.16,1803,,8,-74,-93.13,-13.26,La Galvicia,12.95,La Galvicia,Lluvia,Sur,Lluvia,GNIP,5,,,2005,NPb,,
+K46,06/01/2022,,,,,,,1038,,7,-74,-92.89,-12.83,,9.75,Estación Los Canelos,Lluvia,Sur,Lluvia,Kale_lluvia,6,Transición,,2022,,,
+K53,07/01/2022,,,,,,,738,,8,-74,-92.8,-12.02,,3.36,Estación Llano Grande,Lluvia,Sur,Lluvia,Kale_lluvia,7,Transición,,2022,,,
+K43,06/01/2022,,,,,,,1921,,7,-74,-91.35,-12.47,,8.41,Escuela Agrícola Cachira,Lluvia,Sur,Lluvia,Kale_lluvia,6,Transición,,2022,,,
+M20154,11/28/2023,,,,,,,56,,8,-74,-88.4,-12.38,,10.64,TOTALIZADOR 6,Lluvia,Sur,Lluvia,ANH-SGI,12,Seca,,2023,,,
+,10/31/2004,,,,,1112405.21,1279835.16,1803,,7,-74,-87.41,-12.25,La Galvicia,10.59,La Galvicia,Lluvia,Sur,Lluvia,GNIP,10,,,2004,NPb,,
+M19983,11/16/2023,,,,,,,252,,7,-74,-85.94,-12.29,,12.38,TOTALIZADOR 8,Lluvia,Sur,Lluvia,ANH-SGI,12,Seca,,2023,,,
+K90,11/01/2022,,,,,,,996,,7,-74,-85.43,-12.03,,10.81,Estación de la UIS,Lluvia,Sur,Lluvia,Kale_lluvia,11,Humeda,,2022,,,
+M19980,11/16/2023,,,,,,,90,,7,-74,-84.96,-11.93,,10.48,TOTALIZADOR 5,Lluvia,Sur,Lluvia,ANH-SGI,12,Seca,,2023,,,
+K92,11/01/2022,,,,,,,1432,,7,-74,-84.81,-12.08,,11.83,Estación Oiba,Lluvia,Sur,Lluvia,Kale_lluvia,11,Humeda,,2022,,,
+N43,05/31/2024,,,,,1039556.1,1377742.7,33,,7,-74,-84.58,-11.75,not full,9.42,Totalizador Jeimer,Lluvia,Norte,Lluvia,ZEMS,5,Humeda,460,2024,,,Norte
+,05/15/2017,,40,,8,1131035,1310484,3687,0,7,-74,-84.547481,-11.903433,Quebrada Angostura,10.679983,MINESA 160,Lluvia,Sur,Lluvia,Minesa Soto Norte,5,,,2017,,,
+K89,11/01/2022,,,,,,,738,,8,-74,-83.65,-11.72,,10.11,Estación Llano Grande,Lluvia,Sur,Lluvia,Kale_lluvia,11,Humeda,,2022,,,
+K36,05/01/2022,,,,,,,996,,8,-74,-82.4,-11.01,,5.68,Estación de la UIS,Lluvia,Sur,Lluvia,Kale_lluvia,5,Transición,,2022,,,
+,05/31/2005,,,,,1105219.55,1281939.8,996,,8,-74,-82.04,-11.25,IDEAM Bucaramanga,7.96,IDEAM Bucaramanga,Lluvia,Sur,Lluvia,GNIP,5,,,2005,Qtf,Q,
+,10/31/2004,,,,,1105219.55,1281939.8,996,,7,-74,-80.61,-11.23,IDEAM Bucaramanga,9.23,IDEAM Bucaramanga,Lluvia,Sur,Lluvia,GNIP,10,,,2004,Qtf,Q,
+K91,11/01/2022,,,,,,,1038,,8,-74,-80.05,-11.18,,9.39,Estación Los Canelos,Lluvia,Sur,Lluvia,Kale_lluvia,11,Humeda,,2022,,,
+K32,04/01/2022,,,,,,,402,,7,-74,-79.57,-11.27,,10.59,Predio No hay como la mano de Dios,Lluvia,Sur,Lluvia,Kale_lluvia,4,Humeda,,2022,,,
+,10/31/2004,,15.2,,5.7,1111367.4,1277252.02,1428,,7,-74,-79.46,-11.25,San Antonio,10.54,San Antonio,Lluvia,Sur,Lluvia,GNIP,10,,,2004,NPb,,
+,07/05/2017,,70,,9.1,1131035,1310484,3687,0,7,-74,-79.303486,-11.628784,Quebrada Angostura,13.726786,MINESA 205,Lluvia,Sur,Lluvia,Minesa Soto Norte,7,,,2017,,,
+,06/15/2005,,,,,,,996,,7,-74,-79.18,-10.79,Apto Bucaramanga,7.14,Apto Bucaramanga,Lluvia,Sur,Lluvia,GNIP,6,,,2005,J3g,J,
+K28,04/01/2022,,,,,,,996,,8,-74,-78.81,-11.35,,11.99,Estación de la UIS,Lluvia,Sur,Lluvia,Kale_lluvia,4,Humeda,,2022,,,
+K94,11/01/2022,,,,,,,402,,7,-74,-78.39,-11.08,,10.25,Predio No hay como la mano de Dios,Lluvia,Sur,Lluvia,Kale_lluvia,11,Humeda,,2022,,,
+K40,05/01/2022,,,,,,,402,,7,-74,-78.01,-10.55,,6.39,Predio No hay como la mano de Dios,Lluvia,Sur,Lluvia,Kale_lluvia,5,Transición,,2022,,,
+K41,05/01/2022,,,,,,,344,,7,-74,-76.96,-10.45,,6.64,Predio La Joya,Lluvia,Sur,Lluvia,Kale_lluvia,5,Transición,,2022,,,
+K26,04/01/2022,,,,,,,1921,,7,-74,-76.77,-11.18,,12.67,Escuela Agrícola Cachira,Lluvia,Sur,Lluvia,Kale_lluvia,4,Humeda,,2022,,,
+,11/05/2020,,,,,1025069,1273093,74,0,7,-74,-76.07,-10.99,M-Barrancabermeja,11.85,Lluvia Barrancabermeja ,Lluvia,Sur,Lluvia,Campo,11,Humeda,,2020,Q,Q,
+K50,06/01/2022,,,,,,,344,,7,-74,-75.34,-10.96,,12.34,Predio La Joya,Lluvia,Sur,Lluvia,Kale_lluvia,6,Transición,,2022,,,
+K59,07/01/2022,,,,,,,344,,7,-74,-75.27,-10.7,,10.33,Predio La Joya,Lluvia,Sur,Lluvia,Kale_lluvia,7,Transición,,2022,,,
+K33,04/01/2022,,,,,,,344,,7,-74,-75.04,-10.78,,11.2,Predio La Joya,Lluvia,Sur,Lluvia,Kale_lluvia,4,Humeda,,2022,,,
+,07/18/2017,,60,,9,1131035,1310484,3687,0,8,-74,-74.53568,-11.017469,Quebrada Angostura,13.604072,MINESA 241,Lluvia,Sur,Lluvia,Minesa Soto Norte,7,,,2017,,,
+K98,12/01/2022,,,,,,,738,,8,-74,-74.29,-10.75,,11.71,Estación Llano Grande,Lluvia,Sur,Lluvia,Kale_lluvia,12,Seca,,2022,,,
+K27,04/01/2022,,,,,,,738,,7,-74,-74.13,-10.71,,11.55,Estación Llano Grande,Lluvia,Sur,Lluvia,Kale_lluvia,4,Humeda,,2022,,,
+,06/16/2017,,30,,9.46,1131035,1310484,3687,0,8,-74,-73.930939,-11.102267,Quebrada Angostura,14.887197,MINESA 182,Lluvia,Sur,Lluvia,Minesa Soto Norte,6,,,2017,,,
+K47,06/01/2022,,,,,,,1432,,7,-74,-73.42,-9.27,,0.74,Estación Oiba,Lluvia,Sur,Lluvia,Kale_lluvia,6,Transición,,2022,,,
+K104,12/01/2022,,,,,,,344,,7,-74,-73.1,-10.65,,12.1,Predio La Joya,Lluvia,Sur,Lluvia,Kale_lluvia,12,Seca,,2022,,,
+K52,07/01/2022,,,,,,,1921,,7,-74,-71.64,-10.25,,10.36,Escuela Agrícola Cachira,Lluvia,Sur,Lluvia,Kale_lluvia,7,Transición,,2022,,,
+,08/11/2017,,360,,9,1131035,1310484,3687,0,7,-74,-71.27957,-10.526558,Quebrada Angostura,12.932894,MINESA 247,Lluvia,Sur,Lluvia,Minesa Soto Norte,8,,,2017,,,
+,10/13/2017,,40,,9.41,1131035,1310484,3687,0,7.257737398,-73.96868229,-70.622135,-10.335073,Quebrada Angostura,12.058449,MINESA 317,Lluvia,Sur,Lluvia,Minesa Soto Norte,10,,,2017,,,
+,01/07/2017,,43,,7.24,1130924,1309486,3687,0,7.257737398,-73.96868229,-70.420274,-10.29267,Quebrada Angostura,11.921086,MINESA 36,Lluvia,Sur,Lluvia,Minesa Soto Norte,1,,,2017,,,
+,09/19/2017,,60,,8.53,1131035,1310484,3687,0,7.268332725,-73.96001371,-69.936005,-10.288049,Quebrada Angostura,12.368387,MINESA 300,Lluvia,Sur,Lluvia,Minesa Soto Norte,9,,,2017,,,
+K30,04/01/2022,,,,,,,1432,,7.754508795,-73.95697302,-69.83,-10.18,,11.61,Estación Oiba,Lluvia,Sur,Lluvia,Kale_lluvia,4,Humeda,,2022,,,
+,08/28/2017,,60,,8.63,1131035,1310484,3687,0,7.740529332,-73.95524555,-69.730993,-10.041784,Quebrada Angostura,10.603279,MINESA 275,Lluvia,Sur,Lluvia,Minesa Soto Norte,8,,,2017,,,
+,06/30/2005,,,,,1112405.21,1279835.16,1803,,7.090161784,-73.95127003,-69.58,-9.93,La Galvicia,9.86,La Galvicia,Lluvia,Sur,Lluvia,GNIP,6,,,2005,NPb,,
+,01/27/2017,,73,,7.93,1130924,1309486,3687,0,7.090161784,-73.95127003,-69.328742,-9.931222,Quebrada Angostura,10.121034,MINESA 47,Lluvia,Sur,Lluvia,Minesa Soto Norte,1,,,2017,,,
+,11/03/2017,,50,,8.41,1131035,1310484,3687,0,7.582915978,-73.9510586,-69.174738,-10.168644,Quebrada Angostura,12.174414,MINESA 340,Lluvia,Sur,Lluvia,Minesa Soto Norte,11,,,2017,,,
+,12/05/2017,,110,,7.26,1131035,1310484,3687,0,7.725572553,-73.95091685,-69.064884,-10.123162,Quebrada Angostura,11.920412,MINESA 400,Lluvia,Sur,Lluvia,Minesa Soto Norte,12,,,2017,,,
+K45,06/01/2022,,,,,,,996,,7.502963454,-73.94362527,-69.05,-9.96,,10.63,Estación de la UIS,Lluvia,Sur,Lluvia,Kale_lluvia,6,Transición,,2022,,,
+,12/20/2017,,50,,9.33,1131035,1310484,3687,0,7.662854351,-73.94244291,-68.769129,-10.172997,Quebrada Angostura,12.614847,MINESA 433,Lluvia,Sur,Lluvia,Minesa Soto Norte,12,,,2017,,,
+S73,11/24/2020,,5,,6.79,1019830,1304488,30,0,7.961755257,-73.94172101,-60.13,-9.59,Pto Wilches - II,16.59,Lluvia Puerto Wilches,Lluvia,Sur,Lluvia,Campo,11,Humeda,,2020,Q,Q,Sur
+,05/31/2017,,45,,7.9,1131035,1310484,3687,0,7.664769836,-73.93795584,-68.451914,-10.028166,Quebrada Angostura,11.773414,MINESA 163,Lluvia,Sur,Lluvia,Minesa Soto Norte,5,,,2017,,,
+,12/22/2016,,39,,7.41,1130924,1309486,3687,0,7.81163892,-73.93649313,-68.350303,-10.100241,Quebrada Angostura,12.451625,MINESA 17,Lluvia,Sur,Lluvia,Minesa Soto Norte,12,,,2016,,,
+,08/31/2006,,,,,1112405.21,1279835.16,1803,,7.518350452,-73.93508557,-67.46,-9.69,La Galvicia,10.06,La Galvicia,Lluvia,Sur,Lluvia,GNIP,8,,,2006,NPb,,
+M21220,12/19/2023,,,,,,,542,,7.007799694,-73.93461264,-67.39,-9.94,,12.13,TOTALIZADOR 7,Lluvia,Sur,Lluvia,ANH-SGI,1,Seca,,2024,,,
+,04/30/2005,,,,,1105219.55,1281939.8,996,,7.870138292,-73.93001704,-67.17,-9.36,IDEAM Bucaramanga,7.71,IDEAM Bucaramanga,Lluvia,Sur,Lluvia,GNIP,4,,,2005,Qtf,Q,
+,12/06/2016,,39,,7.88,1130924,1309486,3687,0,7.883203667,-73.92928696,-67.144827,-10.030105,Quebrada Angostura,13.096013,MINESA 3,Lluvia,Sur,Lluvia,Minesa Soto Norte,12,,,2016,,,
+K56,07/01/2022,,,,,,,1432,,7.361340104,-73.92730164,-66.6,-9.16,,6.68,Estación Oiba,Lluvia,Sur,Lluvia,Kale_lluvia,7,Transición,,2022,,,
+M21221,12/19/2023,,,,,,,252,,7.361394357,-73.92730162,-66.32,-9.6,,10.48,TOTALIZADOR 8,Lluvia,Sur,Lluvia,ANH-SGI,1,Seca,,2024,,,
+K68,08/01/2022,,,,,,,344,,7.361394357,-73.92730162,-66.13,-9.93,,13.31,Predio La Joya,Lluvia,Sur,Lluvia,Kale_lluvia,8,Humeda,,2022,,,
+,01/19/2018,,37,,8.47,1131035,1310484,3687,0,7.002896142,-73.9262427,-66.102222,-9.794296,Quebrada Angostura,12.252146,MINESA 498,Lluvia,Sur,Lluvia,Minesa Soto Norte,1,,,2018,,,
+K55,07/01/2022,,,,,,,1038,,7.764779352,-73.92513135,-65.96,-9.23,,7.88,Estación Los Canelos,Lluvia,Sur,Lluvia,Kale_lluvia,7,Transición,,2022,,,
+K73,09/01/2022,,,,,,,1038,,7.207187881,-73.92512562,-65.93,-9.85,,12.87,Estación Los Canelos,Lluvia,Sur,Lluvia,Kale_lluvia,9,Humeda,,2022,,,
+,02/15/2017,,51,,7.9,1131035,1310484,3687,0,7.207187881,-73.92512562,-65.830089,-9.761811,Quebrada Angostura,12.264399,MINESA 73,Lluvia,Sur,Lluvia,Minesa Soto Norte,2,,,2017,,,
+K82,10/01/2022,,,,,,,1038,,6.99212605,-73.92410132,-65.47,-9.74,,12.45,Estación Los Canelos,Lluvia,Sur,Lluvia,Kale_lluvia,10,Humeda,,2022,,,
+,11/30/2006,,,,,1112405.21,1279835.16,1803,,7.265,-73.921,-65.38,-9.76,La Galvicia,12.7,La Galvicia,Lluvia,Sur,Lluvia,GNIP,11,,,2006,NPb,,
+K80,10/01/2022,,,,,,,738,,7.377295254,-73.91505944,-65.3,-9.52,,10.86,Estación Llano Grande,Lluvia,Sur,Lluvia,Kale_lluvia,10,Humeda,,2022,,,
+N42,05/31/2023,,,,,1039556.1,1377742.7,33,,7.373642088,-73.91469847,-64.99,-9.33,,9.65,Totalizador Jeimer,Lluvia,Norte,Lluvia,ZEMS,5,Humeda,256,2023,,,Norte
+,04/15/2005,,,,,,,996,,7.381020277,-73.91410703,-63.67,-9.13,Apto Bucaramanga,9.37,Apto Bucaramanga,Lluvia,Sur,Lluvia,GNIP,4,,,2005,J3g,J,
+K81,10/01/2022,,,,,,,996,,7.381020277,-73.91410703,-63.3,-9.45,,12.3,Estación de la UIS,Lluvia,Sur,Lluvia,Kale_lluvia,10,Humeda,,2022,,,
+M21218,12/19/2023,,,,,,,90,,7.376688863,-73.91351082,-62.38,-9.25,,11.62,TOTALIZADOR 5,Lluvia,Sur,Lluvia,ANH-SGI,1,Seca,,2024,,,
+M21217,12/19/2023,,,,,,,807,,7.386327604,-73.9129638,-62.22,-9.52,,13.94,TOTALIZADOR 4,Lluvia,Sur,Lluvia,ANH-SGI,1,Seca,,2024,,,
+,11/30/2004,,,,,1112405.21,1279835.16,1803,,7.213,-73.912,-62.08,-9.02,La Galvicia,10.08,La Galvicia,Lluvia,Sur,Lluvia,GNIP,11,,,2004,NPb,,
+M20372,11/28/2023,,,,,,,1522,,7.571138846,-73.91125442,-61.94,-9.39,,13.18,TOTALIZADOR 2,Lluvia,Sur,Lluvia,ANH-SGI,12,Seca,,2023,,,
+,03/21/2017,,30,,10.06,1131035,1310484,3687,0,7.393569631,-73.91096838,-61.767885,-9.634295,Quebrada Angostura,15.306475,MINESA 103,Lluvia,Sur,Lluvia,Minesa Soto Norte,3,,,2017,,,
+M20375,11/28/2023,,,,,,,90,,7.393569631,-73.91096838,-60.59,-9.02,,11.57,TOTALIZADOR 5,Lluvia,Sur,Lluvia,ANH-SGI,12,Seca,,2023,,,
+K49,06/01/2022,,,,,,,402,,7.282,-73.91,-60.43,-8.72,,9.33,Predio No hay como la mano de Dios,Lluvia,Sur,Lluvia,Kale_lluvia,6,Transición,,2022,,,
+M20371,11/28/2023,,,,,,,1731,,7.463685471,-73.9072135,-60.36,-9.32,,14.2,TOTALIZADOR 1,Lluvia,Sur,Lluvia,ANH-SGI,12,Seca,,2023,,,
+,03/06/2017,,40,,8.11,1131035,1310484,3687,0,7.832043578,-73.90393524,-60.33233,-9.080557,Quebrada Angostura,12.312126,MINESA  92,Lluvia,Sur,Lluvia,Minesa Soto Norte,3,,,2017,,,
+,02/02/2018,,46,,7.35,1131035,1310484,3687,0,7.267,-73.903,-60.1705,-8.43948,Quebrada Angostura,7.34534,MINESA 538,Lluvia,Sur,Lluvia,Minesa Soto Norte,2,,,2018,,,
+,10/31/2006,,,,,1112405.21,1279835.16,1803,,7.464564012,-73.90146535,-60.08,-9,La Galvicia,11.92,La Galvicia,Lluvia,Sur,Lluvia,GNIP,10,,,2006,NPb,,
+N40,07/31/2024,,,,,1039556.1,1377742.7,33,,7.464564012,-73.90146535,-60.03,-9.06,,12.45,Totalizador Jeimer,Lluvia,Norte,Lluvia,ZEMS,7,Humeda,169,2024,,,Norte
+M21216,12/19/2023,,,,,,,1339,,7.386,-73.898,-59.54,-9.22,,14.22,TOTALIZADOR 3,Lluvia,Sur,Lluvia,ANH-SGI,1,Seca,,2024,,,
+K93,11/01/2022,,,,,,,78,,7.349556386,-73.89790646,-55.17,-8.26,,10.91,Predio La Belleza,Lluvia,Sur,Lluvia,Kale_lluvia,11,Humeda,,2022,,,Sur
+N41,06/30/2024,,,,,1039556.1,1377742.7,33,,7.349556386,-73.89790646,-59.15,-9.19,,14.37,Totalizador Jeimer,Lluvia,Norte,Lluvia,ZEMS,6,Humeda,504,2024,,,Norte
+K79,10/01/2022,,,,,,,1921,,7.349556386,-73.89790646,-58.9,-8.79,,11.42,Escuela Agrícola Cachira,Lluvia,Sur,Lluvia,Kale_lluvia,10,Humeda,,2022,,,
+K64,08/01/2022,,,,,,,1038,,7.349556386,-73.89790646,-58.16,-8.92,,13.2,Estación Los Canelos,Lluvia,Sur,Lluvia,Kale_lluvia,8,Humeda,,2022,,,
+M20373,11/28/2023,,,,,,,1339,,7.388690674,-73.8974831,-58.11,-8.48,,9.73,TOTALIZADOR 3,Lluvia,Sur,Lluvia,ANH-SGI,12,Seca,,2023,,,
+N35,07/31/2023,,,,,1039556.1,1377742.7,33,,7.376,-73.897,-58,-8.43,not full,9.44,Totalizador Jeimer,Lluvia,Norte,Lluvia,ZEMS,7,Humeda,185,2023,,,Norte
+K66,08/01/2022,,,,,,,78,,7.085061615,-73.89571158,-54.85,-8.56,,13.63,Predio La Belleza,Lluvia,Sur,Lluvia,Kale_lluvia,8,Humeda,,2022,,,Sur
+K76,09/01/2022,,,,,,,402,,7.085061615,-73.89571158,-57.65,-8.65,,11.55,Predio No hay como la mano de Dios,Lluvia,Sur,Lluvia,Kale_lluvia,9,Humeda,,2022,,,
+K86,10/01/2022,,,,,,,344,,7.346,-73.895,-57.62,-7.92,,5.74,Predio La Joya,Lluvia,Sur,Lluvia,Kale_lluvia,10,Humeda,,2022,,,
+K65,08/01/2022,,,,,,,1432,,7.082,-73.894,-56.12,-8.42,,11.24,Estación Oiba,Lluvia,Sur,Lluvia,Kale_lluvia,8,Humeda,,2022,,,
+K71,09/01/2022,,,,,,,738,,7.40132108,-73.89387287,-55.54,-8.45,,12.06,Estación Llano Grande,Lluvia,Sur,Lluvia,Kale_lluvia,9,Humeda,,2022,,,
+K75,09/01/2022,,,,,,,78,,7.333,-73.893,-53.63,-8.43,,13.81,Predio La Belleza,Lluvia,Sur,Lluvia,Kale_lluvia,9,Humeda,,2022,,,Sur
+K72,09/01/2022,,,,,,,996,,7.427,-73.892,-55.48,-8.28,,10.76,Estación de la UIS,Lluvia,Sur,Lluvia,Kale_lluvia,9,Humeda,,2022,,,
+K74,09/01/2022,,,,,,,1432,,7.287,-73.892,-55.48,-8.62,,13.48,Estación Oiba,Lluvia,Sur,Lluvia,Kale_lluvia,9,Humeda,,2022,,,
+K77,09/01/2022,,,,,,,344,,7.374,-73.892,-55.42,-7.96,,8.26,Predio La Joya,Lluvia,Sur,Lluvia,Kale_lluvia,9,Humeda,,2022,,,
+K44,06/01/2022,,,,,,,738,,7.795245781,-73.88987042,-55.3,-7.34,,3.42,Estación Llano Grande,Lluvia,Sur,Lluvia,Kale_lluvia,6,Transición,,2022,,,
+K67,08/01/2022,,,,,,,402,,7.794739136,-73.8892088,-54.85,-8.02,,9.31,Predio No hay como la mano de Dios,Lluvia,Sur,Lluvia,Kale_lluvia,8,Humeda,,2022,,,
+K95,11/01/2022,,,,,,,344,,7.412731501,-73.88881632,-54.79,-8.24,,11.13,Predio La Joya,Lluvia,Sur,Lluvia,Kale_lluvia,11,Humeda,,2022,,,
+,08/31/2005,,,,,1112405.21,1279835.16,1803,,7.350918001,-73.88876735,-54.66,-8.12,La Galvicia,10.3,La Galvicia,Lluvia,Sur,Lluvia,GNIP,8,,,2005,NPb,,
+M21214,12/19/2023,,,,,,,1731,,7.370485013,-73.88826092,-54.17,-8.44,,13.35,TOTALIZADOR 1,Lluvia,Sur,Lluvia,ANH-SGI,1,Seca,,2024,,,
+N31,11/30/2023,,,,,1039556.1,1377742.7,33,,7.370485013,-73.88826092,-53.97,-8.34,,12.75,Totalizador Jeimer,Lluvia,Norte,Lluvia,ZEMS,11,Seca,26,2023,,,Norte
+N37,10/31/2023,,,,,1039556.1,1377742.7,33,,7.370485013,-73.88826092,-53.96,-8.49,,13.96,Totalizador Jeimer,Lluvia,Norte,Lluvia,ZEMS,10,Humeda,382,2023,,,Norte
+M20378,11/28/2023,,,,,,,252,,7.371,-73.888,-53.91,-7.9,,9.29,TOTALIZADOR 8,Lluvia,Sur,Lluvia,ANH-SGI,12,Seca,,2023,,,
+,04/11/2017,,45,,8.2,1131035,1310484,3687,0,7.371,-73.886,-53.646601,-8.163355,Quebrada Angostura,11.660239,MINESA 125,Lluvia,Sur,Lluvia,Minesa Soto Norte,4,,,2017,,,
+M21215,12/19/2023,,,,,,,1522,,7.246,-73.886,-53.58,-8.19,,11.94,TOTALIZADOR 2,Lluvia,Sur,Lluvia,ANH-SGI,1,Seca,,2024,,,
+N25,06/30/2023,,,,,1039556.1,1377742.7,33,,7.298,-73.885,-53.49,-7.67,,7.87,Totalizador Jeimer,Lluvia,Norte,Lluvia,ZEMS,6,Humeda,156,2023,,,Norte
+,04/30/2005,,,,,1112405.21,1279835.16,1803,,7.355,-73.885,-52.64,-8.34,La Galvicia,14.08,La Galvicia,Lluvia,Sur,Lluvia,GNIP,4,,,2005,NPb,,
+K85,10/01/2022,,,,,,,402,,7.332,-73.884,-52.11,-7.85,,10.69,Predio No hay como la mano de Dios,Lluvia,Sur,Lluvia,Kale_lluvia,10,Humeda,,2022,,,
+K63,08/01/2022,,,,,,,996,,7.322,-73.884,-51.9,-8.13,,13.14,Estación de la UIS,Lluvia,Sur,Lluvia,Kale_lluvia,8,Humeda,,2022,,,
+K97,12/01/2022,,,,,,,1921,,7.299818182,-73.8828481,-50.98,-6.38,,0.06,Escuela Agrícola Cachira,Lluvia,Sur,Lluvia,Kale_lluvia,12,Seca,,2022,,,
+K31,04/01/2022,,,,,,,78,,7.426091367,-73.8817694,-43,-6.64,,10.12,Predio La Belleza,Lluvia,Sur,Lluvia,Kale_lluvia,4,Humeda,,2022,,,Sur
+K61,08/01/2022,,,,,,,1921,,7.324,-73.881,-50.17,-7.91,,13.11,Escuela Agrícola Cachira,Lluvia,Sur,Lluvia,Kale_lluvia,8,Humeda,,2022,,,
+K70,09/01/2022,,,,,,,1921,,7.41,-73.88,-49.81,-7.93,,13.63,Escuela Agrícola Cachira,Lluvia,Sur,Lluvia,Kale_lluvia,9,Humeda,,2022,,,
+,11/05/2020,,8,,7.36,1052374,1410779,165,0,7.388,-73.879,-49.63,-7.7,M-Aguachica,11.97,Lluvia Aguachica,Lluvia,Norte,Lluvia,Campo,11,Humeda,,2020,Q,Q,
+,11/30/2004,,,,,1105219.55,1281939.8,996,,7.349,-73.878,-49.37,-7.5,IDEAM Bucaramanga,10.63,IDEAM Bucaramanga,Lluvia,Sur,Lluvia,GNIP,11,,,2004,Qtf,Q,
+K62,08/01/2022,,,,,,,738,,7.627410821,-73.87615988,-48.4,-7.62,,12.56,Estación Llano Grande,Lluvia,Sur,Lluvia,Kale_lluvia,8,Humeda,,2022,,,
+,08/15/2005,,,,,,,996,,7.305,-73.876,-47.37,-6.8,Apto Bucaramanga,7.03,Apto Bucaramanga,Lluvia,Sur,Lluvia,GNIP,8,,,2005,J3g,J,
+,05/31/2006,,,,,1112405.21,1279835.16,1803,,7.547604756,-73.8742851,-46.85,-7.47,La Galvicia,12.91,La Galvicia,Lluvia,Sur,Lluvia,GNIP,5,,,2006,NPb,,
+,07/31/2005,,,,,1112405.21,1279835.16,1803,,7.207,-73.871,-45.75,-6.98,La Galvicia,10.09,La Galvicia,Lluvia,Sur,Lluvia,GNIP,7,,,2005,NPb,,
+224,03/19/2021,,10.5,,7.6,1075258,1350339,118,0,7.36,-73.869,-43.5229,-7.0229,Agua lluvia- San Alberto Plaza,12.6603,Lluvia San Alberto,Lluvia,Norte,Lluvia,Campo,3,Seca,,2021,Q,Q,
+,07/31/2005,,,,,1105219.55,1281939.8,996,,7.369,-73.869,-43.49,-6.2,IDEAM Bucaramanga,6.11,IDEAM Bucaramanga,Lluvia,Sur,Lluvia,GNIP,7,,,2005,Qtf,Q,
+,08/31/2005,,,,,1105219.55,1281939.8,996,,7.359535271,-73.86860233,-43.02,-6.58,IDEAM Bucaramanga,9.62,IDEAM Bucaramanga,Lluvia,Sur,Lluvia,GNIP,8,,,2005,Qtf,Q,
+K23,03/01/2022,,,,,,,78,,7.362,-73.864,-21.68,-3.93,,9.76,Predio La Belleza,Lluvia,Sur,Lluvia,Kale_lluvia,3,Humeda,,2022,,,Sur
+M21219,12/19/2023,,,,,,,56,,7.679568399,-73.86395359,-42.09,-6.24,,7.83,TOTALIZADOR 6,Lluvia,Sur,Lluvia,ANH-SGI,1,Seca,,2024,,,
+M19977,11/16/2023,,,,,,,1522,,7.267,-73.863,-100.89,-14.18,,12.55,TOTALIZADOR 2,Lluvia,Sur,Lluvia,ANH-SGI,12,Seca,,2023,,,Sur
+,09/15/2005,,,,,,,996,,7.405,-73.863,-40.78,-6.36,Apto Bucaramanga,10.1,Apto Bucaramanga,Lluvia,Sur,Lluvia,GNIP,9,,,2005,J3g,J,
+S26,03/19/2021,,,,,1019830,1304488,30,0,7.407,-73.862,-45.4638,-6.8917,Agua Lluvia PW- Tipo: Lluvia,9.6698,Lluvia Puerto Wilches,Lluvia,Sur,Lluvia,Campo,3,Seca,,2021,Q,Q,Sur
+,09/30/2005,,,,,1112405.21,1279835.16,1803,,7.387,-73.861,-36.62,-6.22,La Galvicia,13.14,La Galvicia,Lluvia,Sur,Lluvia,GNIP,9,,,2005,NPb,,
+N11,09/30/2023,,,,,1039556.1,1377742.7,33,,7.354,-73.861,-35.9,-5.78,,10.34,Totalizador Jeimer,Lluvia,Norte,Lluvia,ZEMS,9,Seca,66,2023,,,Norte
+,09/30/2005,,,,,1105219.55,1281939.8,996,,7.327,-73.855,-34.91,-5.97,IDEAM Bucaramanga,12.85,IDEAM Bucaramanga,Lluvia,Sur,Lluvia,GNIP,9,,,2005,Qtf,Q,
+K22,03/01/2022,,,,,,,1432,,7.343,-73.855,-32.29,-5.56,,12.19,Estación Oiba,Lluvia,Sur,Lluvia,Kale_lluvia,3,Humeda,,2022,,,
+,07/15/2005,,,,,,,996,,7.350008277,-73.85323159,-31.93,-5.25,Apto Bucaramanga,10.07,Apto Bucaramanga,Lluvia,Sur,Lluvia,GNIP,7,,,2005,J3g,J,
+K19,03/01/2022,,,,,,,738,,7.360061245,-73.85306895,-28.87,-5.1,,11.93,Estación Llano Grande,Lluvia,Sur,Lluvia,Kale_lluvia,3,Humeda,,2022,,,
+S11,03/25/2021,,,,,1064543,1310003,126,0,7.36,-73.853,-37.6543,-6.3496,C-SABANA LLUVIA,13.1425,Lluvia Sabana de Torres,Lluvia,Sur,Lluvia,Campo,3,Seca,,2021,N1r (U4),N1r ,Sur
+N8,08/31/2023,,,,,1039556.1,1377742.7,33,,7.36,-73.853,-25.35,-3.98,,6.49,Totalizador Jeimer,Lluvia,Norte,Lluvia,ZEMS,8,Seca,79,2023,,,Norte
+K20,03/01/2022,,,,,,,996,,7.36,-73.853,-25.14,-4.78,,13.1,Estación de la UIS,Lluvia,Sur,Lluvia,Kale_lluvia,3,Humeda,,2022,,,
+K29,04/01/2022,,,,,,,1038,,7.36,-73.853,-25.14,-4.78,,13.1,Estación Los Canelos,Lluvia,Sur,Lluvia,Kale_lluvia,4,Humeda,,2022,,,
+N9,02/29/2024,,,,,1039556.1,1377742.7,33,,7.36,-73.853,-24.35,-4.24,,9.57,Totalizador Jeimer,Lluvia,Norte,Lluvia,ZEMS,2,Seca,0,2024,,,Norte
+K25,03/01/2022,,,,,,,344,,7.36,-73.853,-23.13,-4.45,,12.47,Predio La Joya,Lluvia,Sur,Lluvia,Kale_lluvia,3,Humeda,,2022,,,
+K24,03/01/2022,,,,,,,402,,7.36,-73.853,-22.55,-4.21,,11.13,Predio No hay como la mano de Dios,Lluvia,Sur,Lluvia,Kale_lluvia,3,Humeda,,2022,,,
+,01/31/2007,,,,,1112405.21,1279835.16,1803,,7.36,-73.853,-20.88,-4.19,La Galvicia,12.64,La Galvicia,Lluvia,Sur,Lluvia,GNIP,1,,,2007,NPb,,
+K13,02/01/2022,,,,,,,1432,,7.36,-73.853,-19.8,-3.04,,4.52,Estación Oiba,Lluvia,Sur,Lluvia,Kale_lluvia,2,Seca,,2022,,,
+K16,02/01/2022,,,,,,,344,,7.36,-73.853,-19.8,-3.81,,10.68,Predio La Joya,Lluvia,Sur,Lluvia,Kale_lluvia,2,Seca,,2022,,,
+,02/28/2005,,,,,1105219.55,1281939.8,996,,7.36,-73.853,-19.41,-4.72,IDEAM Bucaramanga,18.35,IDEAM Bucaramanga,Lluvia,Sur,Lluvia,GNIP,2,,,2005,Qtf,Q,
+,12/31/2004,,,,,1112405.21,1279835.16,1803,,7.06565521,-73.85059805,-19.13,-3.94,La Galvicia,12.39,La Galvicia,Lluvia,Sur,Lluvia,GNIP,12,,,2004,NPb,,
+K9,02/01/2022,,,,,,,1921,,7.231,-73.85,-18.32,-3.97,,13.44,Escuela Agrícola Cachira,Lluvia,Sur,Lluvia,Kale_lluvia,2,Seca,,2022,,,
+K14,02/01/2022,,,,,,,78,,7.168410626,-73.84957886,-4.29,-1.8,,10.11,Predio La Belleza,Lluvia,Sur,Lluvia,Kale_lluvia,2,Seca,,2022,,,Sur
+K103,12/01/2022,,,,,,,402,,7.168410626,-73.84957886,-17.97,-3.99,,13.95,Predio No hay como la mano de Dios,Lluvia,Sur,Lluvia,Kale_lluvia,12,Seca,,2022,,,
+K18,03/01/2022,,,,,,,1921,,7.271,-73.849,-17.43,-3.75,,12.57,Escuela Agrícola Cachira,Lluvia,Sur,Lluvia,Kale_lluvia,3,Humeda,,2022,,,
+,01/31/2005,,,,,1112405.21,1279835.16,1803,,7.246,-73.848,-16.43,-4,La Galvicia,15.57,La Galvicia,Lluvia,Sur,Lluvia,GNIP,1,,,2005,NPb,,
+N7,08/31/2024,,,,,1039556.1,1377742.7,33,,7.238,-73.848,-16.31,-3.73,,13.53,Totalizador Jeimer,Lluvia,Norte,Lluvia,ZEMS,8,Humeda,576,2024,,,Norte
+K8,01/01/2022,,,,,,,78,,7.372,-73.848,4.9,-1.09,,13.62,Predio La Belleza,Lluvia,Sur,Lluvia,Kale_lluvia,1,Seca,,2022,,,Sur
+,03/31/2006,,,,,1112405.21,1279835.16,1803,,7.228,-73.844,-15.63,-3.43,La Galvicia,11.81,La Galvicia,Lluvia,Sur,Lluvia,GNIP,3,,,2006,NPb,,
+K48,06/01/2022,,,,,,,78,,7.22752553,-73.84366389,-93.52,-13.1,,11.28,Predio La Belleza,Lluvia,Sur,Lluvia,Kale_lluvia,6,Humeda,,2022,,,Sur
+,04/30/2006,,,,,1112405.21,1279835.16,1803,,7.22752553,-73.84366389,-15.11,-3.54,La Galvicia,13.21,La Galvicia,Lluvia,Sur,Lluvia,GNIP,4,,,2006,NPb,,
+,01/15/2005,,,,,,,996,,7.332250591,-73.84122775,-14.87,-3.24,Apto Bucaramanga,11.05,Apto Bucaramanga,Lluvia,Sur,Lluvia,GNIP,1,,,2005,J3g,J,
+,12/31/2004,,,,,1105219.55,1281939.8,996,,7.327,-73.841,-13.67,-3.46,IDEAM Bucaramanga,14.01,IDEAM Bucaramanga,Lluvia,Sur,Lluvia,GNIP,12,,,2004,Qtf,Q,
+K39,05/01/2022,,,,,,,78,,7.37,-73.841,-89.84,-11.21,,-0.16,Predio La Belleza,Lluvia,Sur,Lluvia,Kale_lluvia,5,Humeda,,2022,,,Sur
+N3,09/30/2024,,,,,1039556.1,1377742.7,33,,7.332,-73.841,-13.24,-2.48,,6.6,Totalizador Jeimer,Lluvia,Norte,Lluvia,ZEMS,9,Seca,305,2024,,,Norte
+N4,03/31/2023,,,,,1039556.1,1377742.7,33,,7.327322368,-73.84074129,-12.86,-2.49,,7.06,Totalizador Jeimer,Lluvia,Norte,Lluvia,ZEMS,3,Seca,90,2023,,,Norte
+N5,02/28/2023,,,,,1039556.1,1377742.7,33,,7.327322363,-73.84073223,-12.4,-2.49,,7.52,Totalizador Jeimer,Lluvia,Norte,Lluvia,ZEMS,2,Seca,4,2023,,,Norte
+,01/31/2005,,,,,1105219.55,1281939.8,996,,7.366,-73.839,-12.34,-3.34,IDEAM Bucaramanga,14.38,IDEAM Bucaramanga,Lluvia,Sur,Lluvia,GNIP,1,,,2005,Qtf,Q,
+N2,04/30/2023,,,,,1039556.1,1377742.7,33,,7.349,-73.839,-11.97,-2.44,,7.55,Totalizador Jeimer,Lluvia,Norte,Lluvia,ZEMS,4,Humeda,233,2023,,,Norte
+,02/15/2005,,,,,,,996,,7.367,-73.838,-11.97,-3.08,Apto Bucaramanga,12.67,Apto Bucaramanga,Lluvia,Sur,Lluvia,GNIP,2,,,2005,J3g,J,
+K21,03/01/2022,,,,,,,1038,,7.166279259,-73.83692336,-10.95,-2.91,,12.33,Estación Los Canelos,Lluvia,Sur,Lluvia,Kale_lluvia,3,Humeda,,2022,,,
+,02/28/2005,,,,,1112405.21,1279835.16,1803,,7.152506235,-73.8336081,-9.66,-3.47,La Galvicia,18.1,La Galvicia,Lluvia,Sur,Lluvia,GNIP,2,,,2005,NPb,,
+K99,12/01/2022,,,,,,,996,,7.395504827,-73.83289719,-8.75,-3.29,,17.57,Estación de la UIS,Lluvia,Sur,Lluvia,Kale_lluvia,12,Seca,,2022,,,
+K57,07/01/2022,,,,,,,78,,7.304,-73.832,-63.74,-9.28,,10.5,Predio La Belleza,Lluvia,Sur,Lluvia,Kale_lluvia,7,Humeda,,2022,,,Sur
+,03/31/2005,,,,,1112405.21,1279835.16,1803,,7.393,-73.832,-6.17,-2.73,La Galvicia,15.67,La Galvicia,Lluvia,Sur,Lluvia,GNIP,3,,,2005,NPb,,
+,03/31/2005,,,,,1105219.55,1281939.8,996,,7.177090452,-73.83074317,-4.88,-1.34,IDEAM Bucaramanga,5.84,IDEAM Bucaramanga,Lluvia,Sur,Lluvia,GNIP,3,,,2005,Qtf,Q,
+K10,02/01/2022,,,,,,,738,,7.381,-73.827,-3.96,-2.24,,13.96,Estación Llano Grande,Lluvia,Sur,Lluvia,Kale_lluvia,2,Seca,,2022,,,
+K15,02/01/2022,,,,,,,402,,7.381178806,-73.82691798,-3.47,-2.24,,14.45,Predio No hay como la mano de Dios,Lluvia,Sur,Lluvia,Kale_lluvia,2,Seca,,2022,,,
+,03/15/2005,,,,,,,996,,7.321,-73.819,-3.18,-1.99,Apto Bucaramanga,12.74,Apto Bucaramanga,Lluvia,Sur,Lluvia,GNIP,3,,,2005,J3g,J,
+K11,02/01/2022,,,,,,,996,,8.856712851,-73.81877451,-2.71,-2.25,,15.29,Estación de la UIS,Lluvia,Sur,Lluvia,Kale_lluvia,2,Seca,,2022,,,
+K5,01/01/2022,,,,,,,1432,,8.856712851,-73.81877451,1.07,-1.61,,13.95,Estación Oiba,Lluvia,Sur,Lluvia,Kale_lluvia,1,Seca,,2022,,,
+K2,01/01/2022,,,,,,,738,,7.315,-73.815,3.31,-1.16,,12.59,Estación Llano Grande,Lluvia,Sur,Lluvia,Kale_lluvia,1,Seca,,2022,,,
+K7,01/01/2022,,,,,,,344,,7.315,-73.815,5.16,-1.05,,13.56,Predio La Joya,Lluvia,Sur,Lluvia,Kale_lluvia,1,Seca,,2022,,,
+K4,01/01/2022,,,,,,,1038,,7.315,-73.815,5.99,-0.83,,12.63,Estación Los Canelos,Lluvia,Sur,Lluvia,Kale_lluvia,1,Seca,,2022,,,
+K3,01/01/2022,,,,,,,996,,7.315,-73.815,7.35,-1,,15.35,Estación de la UIS,Lluvia,Sur,Lluvia,Kale_lluvia,1,Seca,,2022,,,
+K12,02/01/2022,,,,,,,1038,,7.315,-73.815,7.46,-0.73,,13.3,Estación Los Canelos,Lluvia,Sur,Lluvia,Kale_lluvia,2,Seca,,2022,,,
+K1,01/01/2022,,,,,,,1921,,7.315,-73.815,8.84,-0.75,,14.84,Escuela Agrícola Cachira,Lluvia,Sur,Lluvia,Kale_lluvia,1,Seca,,2022,,,
+K6,01/01/2022,,,,,,,402,,7.315,-73.815,12.63,0.59,,7.91,Predio No hay como la mano de Dios,Lluvia,Sur,Lluvia,Kale_lluvia,1,Seca,,2022,,,
+K101,12/01/2022,,,,,,,1432,,7.315,-73.815,50.98,6.38,,-0.06,Estación Oiba,Lluvia,Sur,Lluvia,Kale_lluvia,12,Seca,,2022,,,
+,03/31/2005,,,,,1111367.4,1277252.02,1428,,7.025883897,-73.80976306,,-2.49,San Antonio,,San Antonio,Lluvia,Sur,Lluvia,GNIP,3,,,2005,NPb,,
+,03/31/2006,,,,,1111367.4,1277252.02,1428,,7.025883897,-73.80976306,,-2.69,San Antonio,,San Antonio,Lluvia,Sur,Lluvia,GNIP,3,,,2006,NPb,,
+,02/28/2005,,,,,1111367.4,1277252.02,1428,,7.324,-73.809,,-3.03,San Antonio,,San Antonio,Lluvia,Sur,Lluvia,GNIP,2,,,2005,NPb,,
+,01/31/2005,,,,,1111367.4,1277252.02,1428,,7.168053584,-73.80802412,,-3.68,San Antonio,,San Antonio,Lluvia,Sur,Lluvia,GNIP,1,,,2005,NPb,,
+,12/31/2004,,8.9,,5.37,1111367.4,1277252.02,1428,,7.324,-73.802,,-3.82,San Antonio,,San Antonio,Lluvia,Sur,Lluvia,GNIP,12,,,2004,NPb,,
+,01/31/2007,,,,,1111367.4,1277252.02,1428,,7.244,-73.787,,-4.03,San Antonio,,San Antonio,Lluvia,Sur,Lluvia,GNIP,1,,,2007,NPb,,
+,09/30/2005,,,,,1111367.4,1277252.02,1428,,7.246887595,-73.78582924,,-5.75,San Antonio,,San Antonio,Lluvia,Sur,Lluvia,GNIP,9,,,2005,NPb,,
+,08/31/2005,,,,,1111367.4,1277252.02,1428,,7.246100703,-73.78547661,,-6.5,San Antonio,,San Antonio,Lluvia,Sur,Lluvia,GNIP,8,,,2005,NPb,,
+,07/31/2005,,,,,1111367.4,1277252.02,1428,,7.246100703,-73.78547661,,-6.86,San Antonio,,San Antonio,Lluvia,Sur,Lluvia,GNIP,7,,,2005,NPb,,
+,04/30/2005,,,,,1111367.4,1277252.02,1428,,7.183943407,-73.78301764,,-7.29,San Antonio,,San Antonio,Lluvia,Sur,Lluvia,GNIP,4,,,2005,NPb,,
+,11/30/2004,,8.2,,5.88,1111367.4,1277252.02,1428,,7.420589595,-73.77711974,,-8.13,San Antonio,,San Antonio,Lluvia,Sur,Lluvia,GNIP,11,,,2004,NPb,,
+,06/30/2005,,,,,1111367.4,1277252.02,1428,,7.324405101,-73.77132503,,-8.51,San Antonio,,San Antonio,Lluvia,Sur,Lluvia,GNIP,6,,,2005,NPb,,
+,10/31/2006,,,,,1111367.4,1277252.02,1428,,7.324477198,-73.77097178,,-8.91,San Antonio,,San Antonio,Lluvia,Sur,Lluvia,GNIP,10,,,2006,NPb,,
+,08/31/2006,,,,,1111367.4,1277252.02,1428,,7.145989003,-73.74964594,,-9.34,San Antonio,,San Antonio,Lluvia,Sur,Lluvia,GNIP,8,,,2006,NPb,,
+,11/30/2006,,,,,1111367.4,1277252.02,1428,,8.190999273,-73.7472751,,-9.97,San Antonio,,San Antonio,Lluvia,Sur,Lluvia,GNIP,11,,,2006,NPb,,
+,05/31/2005,,,,,1111367.4,1277252.02,1428,,7.247,-73.747,,-12.99,San Antonio,,San Antonio,Lluvia,Sur,Lluvia,GNIP,5,,,2005,NPb,,
+,06/30/2006,,,,,1111367.4,1277252.02,1428,,8.318593337,-73.74476345,,-13.93,San Antonio,,San Antonio,Lluvia,Sur,Lluvia,GNIP,6,,,2006,NPb,,
+,04/30/2006,,,,,1111367.4,1277252.02,1428,,8.318593337,-73.74476345,,-15.49,San Antonio,,San Antonio,Lluvia,Sur,Lluvia,GNIP,4,,,2006,NPb,,
+,05/31/2006,,,,,1111367.4,1277252.02,1428,,8.303565905,-73.74451286,,-19.61,San Antonio,,San Antonio,Lluvia,Sur,Lluvia,GNIP,5,,,2006,NPb,,
+K96,11/01/2022,,,,,,,100,0,8.660493984,-73.73763626,-72.77,-10.62,,12.19,Manati Blanco,Subterranea,Sur,Manantial,Kale_lluvia,11,Humeda,,2022,,,Sur
+S68,11/11/2020,,296,,5.64,1068896,1301894,132,355,8.660493984,-73.73763626,-62.55,-9.04,ABA - Santos 6 C Provincia - 355m,9.77,Santos 6 ABA,Subterranea,Sur,ABA,Campo,11,Humeda,,2020,N1r (U3),N1r ,Sur
+,11/10/2020,,450,,7.98,1016714,1266149,74,300,7.455481093,-73.73719976,-67.26,-9.8,ABA,11.14,PC 09 ABAS,Subterranea,Sur,ABA,Campo,11,Humeda,,2020,N1r (U1),N1r ,
+,11/10/2020,,548,,7.54,1015789,1266691,74,310,8.195186174,-73.73710757,-66.66,-9.65,ABA-310m,10.54,PC 11R ABAS,Subterranea,Sur,ABA,Campo,11,Humeda,,2020,N1r (U1),N1r ,
+,11/10/2020,,445,,8.52,1016951,1264958,74,335,8.195186174,-73.73710757,-66.23,-9.52,ABA-REUBICADO - 335m,9.93,PC 8R ABAS,Subterranea,Sur,ABA,Campo,11,Humeda,,2020,N1r (U1),N1r ,
+118,03/17/2021,,,,,1041174,1399372,50,168,7.324777129,-73.73546132,-62.9711,-9.1561,La Esperanza Puerto Mosquito,10.2777,La Esperanza Pto Mosquito,Subterranea,Norte,Pozo Profundo,Campo,3,Seca,,2021,N1r (U3),N1r ,
+,11/05/2020,,442,,8.21,1041174,1399372,50,168,8.321204941,-73.73247879,-62.46,-8.96,Pozo Somero-168m,9.22,La Esperanza Pto Mosquito,Subterranea,Norte,Pozo Profundo,Campo,11,Humeda,,2020,N1r (U3),N1r ,
+S59,04/20/2023,,233,28,7.5,1026144,1302032,79,,8.321204941,-73.73247879,-57.7,-8.08,,6.94,Pozo Acueducto km 8,Subterranea,Sur,Pozo Somero,ZEMS,4,Humeda,,2023,,,Sur
+S67,11/10/2020,,446,,7.46,1021608,1312953,51,352,8.321204941,-73.73247879,-57.44,-8.92,ABA-MAGDALENA-352m,13.92,PCM 1 ABAS,Subterranea,Sur,ABA,Campo,11,Humeda,,2020,N1r (U2),N1r ,Sur
+K16,04/01/2021,,,,8.57,,,59,340,7.199632111,-73.73207918,-57.13,-8.44,,10.39,PCM-1,Subterranea,Sur,ABA,Kale_platero,4,Humeda,,2021,Real,,Sur
+K47,04/01/2021,,,,5.22,,,83,6,7.199632111,-73.73207918,-56.64,-8.25,,9.36,Mulería Escuela,Subterranea,Sur,Aljibe,Kale_platero,4,Humeda,,2021,,,Sur
+404,03/15/2021,,350,,8.8,1050532.32,1278832.29,100,60,7.440294399,-73.73055328,-60.5933,-9.3297,Asfaltera/Fabian Rodriguez,14.0443,Planta de Asfalto ,Subterranea,Sur,Pozo Somero,Campo,3,Seca,,2021,N1r (U2),N1r ,
+K12,04/01/2021,,,,6.98,,,68,80,7.440294399,-73.73055328,-55.8,-8.42,,11.56,Acueducto Las Amintas,Subterranea,Sur,Pozo Profundo,Kale_platero,4,Humeda,,2021,,,Sur
+K1,04/01/2021,,,,7.47,,,88,60,8.731631999,-73.72743035,-55.52,-8.37,,11.44,Acueducto Km 8,Subterranea,Sur,Pozo somero,Kale_platero,4,Humeda,,2021,,,Sur
+M20782,12/12/2023,,,,,,,57,23,8.731631999,-73.72743035,-59.25,-8.79,,11.07,Finca La bendición,Subterranea,Sur,Aljibe,ANH-SGI,1,Seca,,2024,,,
+438,03/20/2021,,202,,,1013487,1347725,90,70,8.01336358,-73.72359945,-59.1647,-8.6753,Simiti-Acueducto Las Animas (campo Hermoso),10.2377,Acueducto Campo Hermoso,Subterranea,Norte,Pozo Somero,Campo,3,Seca,,2021,N1r (U1),N1r ,
+116,03/17/2021,,695,,7,1037509,1398022,45,12,8.026148471,-73.72236605,-59.0407,-8.8522,Finca no te enganes,11.7769,Finca No te engañes,Subterranea,Norte,Aljibe,Campo,3,Seca,,2021,Q,Q,
+120,03/17/2021,,433,,7.4,1047778,1408783,133,90,8.010984765,-73.72074571,-58.9749,-8.5178,Villa Esperanza,9.1675,Villa Esperanza,Subterranea,Norte,Pozo Profundo,Campo,3,Seca,,2021,Q,Q,
+N30,09/20/2023,,979,,6.1,1039628.97,1377758.54,33,26,7.030908911,-73.72048342,-58.59,-8.28,,7.65,Pozo Chepe,Subterranea,Norte,Aljibe,ZEMS,9,Seca,,2023,,,Norte
+,11/05/2020,,963,,7.04,1037509,1398022,45,12,8.341483653,-73.72038675,-58.58,-8.68,Aljibe-NoTeEngañes-12m,10.86,Finca No te engañes,Subterranea,Norte,Aljibe,Campo,11,Humeda,,2020,Q,Q,
+S43,04/20/2023,,312,27,6.7,1024762.6,1304540.2,63,56,8.341483653,-73.72038675,-54.87,-7.48,,4.97,Pozo San Jorge,Subterranea,Sur,Pozo Somero,ZEMS,4,Humeda,,2023,,,Sur
+117,03/17/2021,,766,,7.2,1036389,1397558,45,60,8.01133423,-73.71897503,-58.4752,-8.8848,Acueducto Puerto Mosquito,12.6032,Acueducto Puerto Mosquito,Subterranea,Norte,Pozo Somero,Campo,3,Seca,,2021,Q,Q,
+443,03/20/2021,,153,,,1015553,1355590,66,72,8.01133423,-73.71897503,-58.2326,-8.9502,Simiti-Acueducto La Sabana,13.369,Acueducto La Sabana,Subterranea,Norte,Pozo Somero,Campo,3,Seca,,2021,N1r (U2),N1r ,
+M20784,12/12/2023,,,,,,,78,0,8.011810485,-73.71869251,-57.77,-8.48,,10.07,Bocas del Rosario,Subterranea,Sur,Aljibe,ANH-SGI,1,Seca,,2024,,,
+K55,04/01/2021,,,,6.21,,,83,73,8.011810485,-73.71869251,-57.61,-7.97,,6.15,Acueducto El Pedral,Subterranea,Sur,Pozo somero,Kale_platero,4,Humeda,,2021,,,
+K57,04/01/2021,,,,5.17,,,70,16.3,8.011810485,-73.71869251,-57.6,-8.31,,8.88,Escuela la Lucha,Subterranea,Sur,Aljibe,Kale_platero,4,Humeda,,2021,,,
+S42,04/20/2023,,279,28.3,7.3,1033808,1301714,106,80,8.011810485,-73.71869251,-54.81,-7.47,,4.95,Pozo Yudi,Subterranea,Sur,Pozo Profundo,ZEMS,4,Humeda,,2023,,,Sur
+439,03/20/2021,,234,,,1013296,1349271,90,90,8.011810485,-73.71869251,-57.3739,-8.8709,Simiti-Acueducto Palmeras,13.5933,Acueducto Palmeras,Subterranea,Norte,Pozo Profundo,Campo,3,Seca,,2021,N1r (U1),N1r ,
+135,03/20/2021,,252,,,1039337,1414204,50,80,8.011810485,-73.71869251,-57.3445,-8.5664,Ferrocarril Gamarra,11.1867,Ferrocarril Gamarra,Subterranea,Norte,Pozo Profundo,Campo,3,Seca,,2021,Q,Q,
+K78,09/01/2022,,,,,,,100,0,8.011810485,-73.71869251,-54.07,-8.18,,11.37,Manati Blanco,Subterranea,Sur,Manantial,Kale_lluvia,9,Humeda,,2022,,,Sur
+,11/07/2020,,280,,6.78,1039337,1414204,50,80,8.011810485,-73.71869251,-57.06,-8.53,FerrocarrilGamarra-profundo,11.18,Ferrocarril Gamarra,Subterranea,Norte,Pozo Profundo,Campo,11,Humeda,,2020,Q,Q,
+407,11/11/2020,,632,,7.01,1029583,1268697,68,80,8.011810485,-73.71869251,-57,-8.63,Acueducto-Aguakriss-80m,12.04,Agua Kriss,Subterranea,Sur,Pozo Profundo,Campo,11,Humeda,,2020,N1r (U1),N1r ,
+N39,03/18/2021,,144.9,,7,1039525,1377690,33,90,8.011810485,-73.71869251,-56.9359,-8.783,Pozo Barrancalebrija,13.3281,Barrancalebrija,Subterranea,Norte,Pozo Profundo,Campo,3,Seca,,2021,Q,Q,Norte
+,11/05/2020,,343,,8.52,1050532.32,1278832.29,100,60,8.011810485,-73.71869251,-56.91,-8.29,Pozo Somero-60m,9.41,Planta de Asfalto ,Subterranea,Sur,Pozo Somero,Campo,11,Humeda,,2020,N1r (U2),N1r ,
+437,03/20/2021,,86,,,1013965,1346071,90,75,8.011810485,-73.71869251,-56.709,-8.8861,Simiti-Acueducto Las Animas Altas,14.3798,Acueducto Las Animas Altas,Subterranea,Norte,Pozo Somero,Campo,3,Seca,,2021,N1r (U2),N1r ,
+S66,11/09/2020,,162,,6.98,1019830,1304488,30,120,8.011810485,-73.71869251,-53.97,-8.77,Acueducto-PtoWilches-Planta-120m,16.19,Acueducto Puerto Wilches,Subterranea,Sur,Pozo Profundo,Campo,11,Humeda,,2020,N1r (U3),N1r ,Sur
+134,03/20/2021,,185,,,1040263,1413678,50,60,8.011810485,-73.71869251,-56.5654,-8.2951,Via Gamarra Aguachica,9.7954,Finca Via Gamarra,Subterranea,Norte,Pozo Somero,Campo,3,Seca,,2021,Q,Q,
+434,03/19/2021,,221,,8.6,1014777,1321452,53,117,8.011810485,-73.71869251,-56.3889,-8.6281,San Pablo- Acueducto Enraizar 1,12.6359,Acueducto Enraizar 1,Subterranea,Norte,Pozo Profundo,Campo,3,Seca,,2021,N1r (U2),N1r ,
+,11/07/2020,,303,,6.64,1041541,1413032,75,90,8.011810485,-73.71869251,-56.37,-8.42,LaMaria-90m,10.99,Finca La María,Subterranea,Norte,Pozo Profundo,Campo,11,Humeda,,2020,Q,Q,
+504,03/27/2021,,116,,6.7,1047769,1402899,106,82,8.011919933,-73.71842936,-56.0883,-8.3883,C-504,11.0181,Acueducto La Esmeralda baja,Subterranea,Norte,Pozo Profundo,Campo,3,Seca,,2021,Q,Q,
+440,03/20/2021,,197,,,1016808,1350408,52,61,8.011919933,-73.71842936,-56.0116,-8.5139,Simiti-Acueducto Sinai,12.0996,Acueducto Sinai,Subterranea,Norte,Pozo Somero,Campo,3,Seca,,2021,N1r (U2),N1r ,
+,11/26/2020,,126,,7.11,1036683,1410008,15,0,8.011919933,-73.71842936,-55.98,-8.37,Cienaga Juncal,10.98,Cienaga Juncal,Superficial,Norte,Cienaga,Campo,11,Humeda,,2020,Q,Q,
+129,03/19/2021,,123,,,1047769,1402899,106,82,8.011919933,-73.71842936,-55.8486,-8.3386,Acueducto la Esmeralda,10.8602,Acueducto La Esmeralda baja,Subterranea,Norte,Pozo Profundo,Campo,3,Seca,,2021,Q,Q,
+119,03/17/2021,,137,,7,1046994,1406345,91,25,8.011919933,-73.71842936,-55.8152,-8.3604,Finca Santa Maria,11.068,Finca Santa Maria,Subterranea,Norte,Pozo Somero,Campo,3,Seca,,2021,Q,Q,
+S54,11/07/2020,,2083,,6.84,1018040,1307967,49,125,8.011919933,-73.71842936,-53.79,-7.94,Acueducto-Cantagallo-Planta-125m,9.73,Acueducto Cantagallo,Subterranea,Sur,Pozo Profundo,Campo,11,Humeda,,2020,N1r (U3),N1r ,Sur
+423,03/18/2021,,242,,7.9,1012018,1294331,57,100,8.011919933,-73.71842936,-55.6926,-8.4059,Pozo Acueducto Cano Patico,11.5546,Acueducto Cano Patico,Subterranea,Sur,Pozo Profundo,Campo,3,Seca,,2021,N1r (U2),N1r ,
+,11/06/2020,,618,,6.84,1042871,1385531,47,80,8.011919933,-73.71842936,-55.66,-8.27,Pozo Somero PtoPatiño-80m,10.5,Acueducto Puerto Patiño ,Subterranea,Norte,Pozo Profundo,Campo,11,Humeda,,2020,Q,Q,
+S56,04/20/2023,,251,27.5,7.2,1043908,1304445,103,,8.011953131,-73.71803139,-53.63,-8.01,,10.45,Pozo la Cristalina,Subterranea,Sur,Pozo Somero,ZEMS,4,Humeda,,2023,,,Sur
+,11/26/2020,,125,,7.25,1038007,1411960,29,0,7.999304898,-73.71237948,-55.64,-8.58,Cienaga Baquero,13,Cienaga Baquero,Superficial,Norte,Cienaga,Campo,11,Humeda,,2020,Q,Q,
+506,11/07/2020,,332,,7.05,1012018,1294331,57,100,8.336720112,-73.71198459,-55.64,-8.65,Acueducto-Cantagallo-CañoPatico-100m,13.56,Acueducto Cano Patico,Subterranea,Sur,Pozo Profundo,Campo,11,Humeda,,2020,N1r (U2),N1r ,
+123,03/18/2021,,626,,,1042871,1385531,47,80,8.336720112,-73.71198459,-55.6219,-8.3984,Acueducto Puerto Patino,11.5653,Acueducto Puerto Patiño ,Subterranea,Norte,Pozo Profundo,Campo,3,Seca,,2021,Q,Q,
+,11/07/2020,,205,,6.56,1040263,1413678,50,60,8.207362971,-73.70383616,-55.57,-8.37,Pozo Somero-60m,11.39,Finca Via Gamarra,Subterranea,Norte,Pozo Somero,Campo,11,Humeda,,2020,Q,Q,
+105,03/20/2021,,323,,,1041541,1413032,75,90,8.207362971,-73.70383616,-55.5629,-8.3154,Finca la Maria,10.9603,Finca La María,Subterranea,Norte,Pozo Profundo,Campo,3,Seca,,2021,Q,Q,
+429,03/19/2021,,157,,7.9,1022217,1335218,73,,8.330868387,-73.70038817,-55.4343,-8.5067,San Pablo- Acueducto El Rosario,12.6193,Acueducto El Rosario,Subterranea,Norte,Pozo Somero,Campo,3,Seca,,2021,N1r (U3),N1r ,
+,11/04/2020,,278,,6.7,1051455.48,1396878.69,99,12,8.330868387,-73.70038817,-55.28,-8.38,Pozo Somero - SOMERO,11.76,_W203 NO REUBICADO,Subterranea,Norte,Aljibe,Campo,11,Humeda,,2020,Q,Q,
+S60,11/05/2020,,212,,6.89,1033161,1312351,58,72,7.288923523,-73.6991391,-53.47,-8.24,Acueducto Campo Duro - 72m,12.45,Acueducto Campo Duro,Subterranea,Sur,Pozo Somero,Campo,11,Humeda,,2020,N1r (U4),N1r ,Sur
+,11/28/2020,,132,,7.01,1042339,1385386,47,0,7.441136293,-73.69862954,-55.12,-8.59,Cienaga Dona Maria,13.6,Cienaga Doña Maria,Superficial,Norte,Cienaga,Campo,11,Humeda,,2020,Q,Q,
+N33,11/07/2020,,375,,6.88,1044616,1379213,64,25,7.283497794,-73.69853693,-55.09,-8.37,FincaVillaRosa-25m,11.87,Finca Villa Rosa REUBICADO,Subterranea,Norte,Pozo Somero,Campo,11,Humeda,,2020,Q,Q,Norte
+421,03/18/2021,,194,,8,1019432.02,1317206.91,20,12,7.283497794,-73.69853693,-54.8878,-8.3275,Jaider Raad,11.7322,Finca villa de los Angeles,Subterranea,Sur,Aljibe,Campo,3,Seca,,2021,Q,Q,
+S61,11/06/2020,,135.7,,4.44,1043911,1304451,103,80,7.446451652,-73.69708497,-53.31,-8.29,Pradilla-72m,13.01,Pradilla,Subterranea,Sur,Pozo Profundo,Campo,11,Humeda,,2020,N1r (U4),N1r ,Sur
+,11/10/2020,,215,,6.86,1051664,1398462,99,110,8.233050206,-73.69413722,-54.82,-8.26,W226,11.26,El Juncal 1,Subterranea,Norte,Pozo Profundo,Campo,11,Humeda,,2020,Q,Q,
+K43,04/01/2021,,,,6.94,,,72,64.1,8.08089626,-73.69338399,-53.12,-8.68,,16.32,Extractora Monterrey,Subterranea,Sur,Pozo somero,Kale_platero,4,Humeda,,2021,,,Sur
+,11/06/2020,,158,,6.5,1046615,1388485,61,45,8.08089626,-73.69338399,-54.71,-8.21,Pozo Somero CrucePatiño-45m,10.97,Vereda Cruce Patiño,Subterranea,Norte,Pozo Somero,Campo,11,Humeda,,2020,Q,Q,
+N38,11/05/2020,,340,,7,1046410,1370592,24,100,8.878185747,-73.69234601,-54.71,-8.54,Pozo Somero-100m,13.61,Acueducto Pita Limón,Subterranea,Norte,Pozo Profundo,Campo,11,Humeda,,2020,Q,Q,Norte
+N36,11/05/2020,,245,,6.92,1051968,1374913,61,,8.878185747,-73.69234601,-54.7,-8.45,W206-Cuatrobocas,12.9,Cuatro bocas,Subterranea,Norte,Pozo Somero,Campo,11,Humeda,,2020,Q,Q,Norte
+121,03/17/2021,,244,,7.1,1051664,1398462,99,110,8.082202743,-73.6885562,-54.6226,-8.4075,Corregimiento el Juncal1,12.6374,El Juncal 1,Subterranea,Norte,Pozo Profundo,Campo,3,Seca,,2021,Q,Q,
+122,03/17/2021,,210,,7.1,1051774,1398511,99,,8.082202743,-73.6885562,-54.6116,-8.1863,Corregimiento el Juncal2,10.8788,El Juncal 2,Subterranea,Norte,Pozo Somero,Campo,3,Seca,,2021,Q,Q,
+125,03/18/2021,,121.7,,,1046615,1388485,61,45,7.425700066,-73.68639578,-54.4899,-8.4211,Vereda Cruce Patino,12.8789,Vereda Cruce Patiño,Subterranea,Norte,Pozo Somero,Campo,3,Seca,,2021,Q,Q,
+430,03/19/2021,,150,,7.1,1022428,1326392,30,70,7.659758177,-73.68511609,-54.3454,-8.5557,San Pablo- Acueducto Canaletal,14.1002,Acueducto Canaletal,Subterranea,Norte,Pozo Somero,Campo,3,Seca,,2021,N1r (U3),N1r ,
+N34,03/18/2021,,336,,7.4,1046410,1370592,24,100,7.659758177,-73.68511609,-54.3277,-8.4181,Ac. Corregimiento Pita Limon,13.0171,Acueducto Pita Limón,Subterranea,Norte,Pozo Profundo,Campo,3,Seca,,2021,Q,Q,Norte
+S58,11/10/2020,,324,,7.76,1020894,1306803,57,365,7.102307473,-73.68153371,-53.09,-8.05,ABA-MAGDALENA-365m,11.31,PCM 2 ABAS,Subterranea,Sur,ABA,Campo,11,Humeda,,2020,N1r (U2),N1r ,Sur
+214,03/17/2021,,241,,7.5,1046350,1363055,31,45,7.248950732,-73.68040185,-54.0619,-7.9901,Ac Correg. Terraplen,9.8589,Acueducto Terraplén,Subterranea,Norte,Pozo Somero,Campo,3,Seca,,2021,Q,Q,
+105,03/15/2021,,180,,6.8,1045740,1410440,78,,7.349027277,-73.67983357,-54.0538,-7.9197,Acueducto Caballero,9.3038,Acueducto Caballero ,Subterranea,Norte,Pozo Somero,Campo,3,Seca,,2021,Q,Q,
+428,03/19/2021,,252,,8.8,1023561,1340987,32,,7.349081505,-73.67980635,-54.0253,-8.1885,San Pablo- Acueducto Carmen del Cucu,11.4827,Acueducto Carmen del Cucu,Subterranea,Norte,Pozo Somero,Campo,3,Seca,,2021,N1r (U3),N1r ,
+126,03/18/2021,,207,,,1051074,1388277,89,,7.349081505,-73.67980635,-53.9726,-8.0723,Villa Tania,10.6058,Villla Tania ,Subterranea,Norte,Pozo Somero,Campo,3,Seca,,2021,Q,Q,
+S65,04/21/2023,,56.2,27.8,5.6,1019875,1308816,49,33,7.259878522,-73.67581947,-53,-8.65,,16.2,Pozo El Punto,Subterranea,Sur,Pozo Somero,ZEMS,4,Humeda,,2023,,,Sur
+,11/04/2020,,177,,6.39,1050988.13,1400089.08,124,70,7.259878522,-73.67581947,-53.95,-7.98,Pozo Somero,9.89,El Faro,Subterranea,Norte,Pozo Somero,Campo,11,Humeda,,2020,Q,Q,
+127,03/18/2021,,225,,,1053885,1388707,93,,8.311537564,-73.67290132,-53.9087,-8.109,Acuaducto el Marquez,10.9633,Acueducto El Marquez,Subterranea,Norte,Pozo Somero,Campo,3,Seca,,2021,Q,Q,
+308,03/16/2021,,,,,1048319,1333483,70,76,8.02506201,-73.67278149,-53.8493,-8.4857,Casaerio Papayal - Tipo: Pozo,14.0363,Caserío Papayal,Subterranea,Norte,Pozo Somero,Campo,3,Seca,,2021,Q,Q,
+K49,04/01/2021,,,,5.64,,,64,6.2,7.219111944,-73.67008799,-52.8,-8.25,,13.2,Finca Bello Horizonte,Subterranea,Sur,Aljibe,Kale_platero,4,Humeda,,2021,,,Sur
+402,03/15/2021,,177,,6.9,1013946,1275799,73,100,8.308132538,-73.66763074,-53.6833,-8.125,Acueducto El tigre/Rafael Enrique Guerrero,11.3167,Acueducto El tigre,Subterranea,Sur,Pozo Profundo,Campo,3,Seca,,2021,N1r (U1),N1r ,
+K15,04/01/2021,,,,7.45,,,69,120,8.308132538,-73.66763074,-52.6,-7.97,,11.16,Acueducto Puerto Wilches PTAP 1,Subterranea,Sur,Pozo Profundo,Kale_platero,4,Humeda,,2021,,,Sur
+K5,04/01/2021,,,,7.09,,,63,70,7.87834565,-73.66752078,-52.33,-7.69,,9.19,PM - 6A,Subterranea,Sur,Pozo somero,Kale_platero,4,Humeda,,2021,,,Sur
+S49,11/10/2020,,380,,8.3,1020273,1310213,49,298,8.30739464,-73.66229391,-51.52,-7.77,ABA - 289m,10.64,ECP 2 ABAS,Subterranea,Sur,ABA,Campo,11,Humeda,,2020,N1r (U2),N1r ,Sur
+480,11/04/2020,,226,,6.89,1019432.02,1317206.91,20,12,7.155013706,-73.66093823,-53.6,-8.21,Luis Calderon - 12m,12.08,villa de los Angeles,Subterranea,Sur,Aljibe,Campo,11,Humeda,,2020,Q,Q,
+213,03/17/2021,,260,,7.2,1045212,1362987,31,40,8.306928522,-73.65752869,-53.5879,-8.0176,Ac Correg. Puerto culto,10.5529,Acueducto Puerto Culto,Subterranea,Norte,Pozo Somero,Campo,3,Seca,,2021,Q,Q,
+128,03/18/2021,,231,,,1051970,1399475,124,150,8.306928522,-73.65752869,-53.571,-7.8685,Biter,9.377,Biter,Subterranea,Norte,Pozo Profundo,Campo,3,Seca,,2021,Q,Q,
+,11/04/2020,,250,,6.51,1051970,1399475,124,150,7.87895027,-73.65720085,-53.54,-8.02,Pozo Somero,10.62,Biter,Subterranea,Norte,Pozo Profundo,Campo,11,Humeda,,2020,Q,Q,
+K42,04/01/2021,,,,6.91,,,88,119,7.947097229,-73.65658764,-51.51,-8.01,,12.57,Muleria Gualanday,Subterranea,Sur,Pozo Profundo,Kale_platero,4,Humeda,,2021,,,Sur
+489,11/11/2020,,229,,6.32,1013946,1275799,73,105,7.947097229,-73.65658764,-53.47,-8.03,Acueducto-SanMiguelTigre-105m,10.77,Acueducto El tigre,Subterranea,Sur,Pozo Profundo,Campo,11,Humeda,,2020,N1r (U1),N1r ,
+K17,04/01/2021,,,,7.53,,,65,352,7.289327705,-73.6552189,-51.05,-7.41,,8.23,PCM-2,Subterranea,Sur,ABA,Kale_platero,4,Humeda,,2021,Real,,Sur
+403,03/15/2021,,358,,6.5,1029583,1268697,110,80,7.289327705,-73.6552189,-53.4476,-8.299,Agua Kriss,12.9444,Agua Kriss,Subterranea,Sur,Pozo Profundo,Campo,3,Seca,,2021,N1r (U1),N1r ,
+436,03/20/2021,,110,,,1014902,1339135,69,70,8.108878045,-73.65456111,-53.4439,-8.244,San Pablo- Finca La original,12.5081,Finca La original,Subterranea,Norte,Pozo Somero,Campo,3,Seca,,2021,N1r (U2),N1r ,
+K7,04/01/2021,,,,5.71,,,66,60,8.108878045,-73.65456111,-50.83,-7.73,,11.01,Finca Miraflores,Subterranea,Sur,Pozo somero,Kale_platero,4,Humeda,,2021,,,Sur
+98,11/04/2020,,258,,4.16,1048319,1333483,70,76,8.270357437,-73.65095058,-53.25,-8.34,Papayal-76m,13.47,Caserío Papayal,Subterranea,Norte,Pozo Somero,Campo,11,Humeda,,2020,Q,Q,
+441,03/20/2021,,307,,,1020696,1353779,30,74,7.351392022,-73.64588629,-53.2404,-7.999,Simiti-Acueducto El Pinal,10.7516,Acueducto El Pinal,Subterranea,Norte,Pozo Somero,Campo,3,Seca,,2021,N1r (U2),N1r ,
+K11,04/01/2021,,,,7.21,,,60,80,8.304917443,-73.64547594,-50.65,-7.56,,9.83,Finca La Esmeralda,Subterranea,Sur,Pozo Profundo,Kale_platero,4,Humeda,,2021,,,Sur
+S53,04/21/2023,,728,28.7,5.2,1017935,1307555,49,9.4,8.304917443,-73.64547594,-50.62,-7.93,,12.82,Pozo Luis Molina,Subterranea,Sur,Aljibe,ZEMS,4,Humeda,,2023,,,Sur
+K48,04/01/2021,,,,6.12,,,72,4.3,8.239192647,-73.64395015,-50.55,-6.94,,4.97,Finca Las Delicias,Subterranea,Sur,Aljibe,Kale_platero,4,Humeda,,2021,,,Sur
+S51,11/03/2020,,50.1,,3.62,1064803,1308884,140,125,8.239192647,-73.64395015,-49.08,-7.79,AcueductoEspusato-125m,13.24,Espusato,Subterranea,Sur,Pozo Profundo,Campo,11,Humeda,,2020,N1r (U4),N1r ,Sur
+M20666,12/12/2023,,,,,,,143.13,45,8.292393082,-73.64381035,-53.09,-7.88,,9.95,Empresa El Horizonte S.A.S,Subterranea,Sur,Pozo somero,ANH-SGI,1,Seca,,2024,,,
+103,03/15/2021,,167,,6.5,1044571,1410897,78,,7.107843414,-73.64356477,-53.0718,-7.9312,Villa Juliana,10.3778,Villa Juliana ,Subterranea,Norte,Pozo Somero,Campo,3,Seca,,2021,Q,Q,
+N27,09/21/2023,25,,,8,1039585.1,1377754.83,33,337,7.611548488,-73.63962228,-53.06,-7.72,,8.7,Pozo Griselda,Subterranea,Norte,ABA,ZEMS,9,Seca,,2023,,,Norte
+K52,04/01/2021,,,,4.92,,,85,7.9,7.611548488,-73.63962228,-48.97,-7.79,,13.35,Mulería Arandú,Subterranea,Sur,Aljibe,Kale_platero,4,Humeda,,2021,,,Sur
+S40,04/19/2023,,127.4,28.8,8.57,1051983,1305788,147,24,7.015785692,-73.63411726,-48.84,-7.42,,10.52,Pozo Maryomi Badillo,Subterranea,Sur,Aljibe,ZEMS,4,Humeda,,2023,,,Sur
+,11/09/2020,,145,,6.19,1045152,1410521,78,0,7.169697166,-73.6311579,-52.99,-7.96,Finca la Victoria,10.69,Finca La Victoria,Subterranea,Norte,Manantial,Campo,11,Humeda,,2020,Q,Q,
+444,03/20/2021,,112,,,1019143,1357848,40,70,8.46179802,-73.63047327,-52.9296,-8.0124,Simiti-Acueducto San Luis,11.1696,Acueducto San Luis,Subterranea,Norte,Pozo Somero,Campo,3,Seca,,2021,N1r (U2),N1r ,
+S36,11/11/2020,,259.8,,5.89,1069451,1302762,132,186,8.46179802,-73.63047327,-48.47,-7.34,ABA - Chiquita C Provincia - 186m,10.25,Chiquita ABA,Subterranea,Sur,ABA,Campo,11,Humeda,,2020,N1r (U3),N1r ,Sur
+S47,04/20/2023,,300,28.1,6.5,1037768,1301758,98,,8.202529264,-73.62768197,-48.25,-7.61,,12.63,Pozo Virginia,Subterranea,Sur,Aljibe,ZEMS,4,Humeda,,2023,,,Sur
+N29,03/18/2021,,226,,7.4,1051968,1374913,61,,8.202529264,-73.62768197,-52.5074,-8.1607,Cuatro bocas,12.7782,Cuatro bocas,Subterranea,Norte,Pozo Somero,Campo,3,Seca,,2021,Q,Q,Norte
+130,03/19/2021,,179.9,,,1049566,1398846,80,75,7.138739919,-73.62457052,-52.3697,-7.6772,Pista Celta Aguachica,9.0479,Pista Celta,Subterranea,Norte,Pozo Somero,Campo,3,Seca,,2021,Q,Q,
+S37,11/05/2020,,71.8,,4.61,1058393,1315629,47,40,8.313671309,-73.6226179,-46.72,-7.35,Jamaica-47m,12.08,Finca Jamaica,Subterranea,Sur,Pozo Somero,Campo,11,Humeda,,2020,N1r (U4),N1r ,Sur
+131,03/19/2021,,221,,,1055182,1387711,93,,8.313671309,-73.6226179,-52.3345,-7.8712,Los Robles1,10.6351,Los Robles 1,Subterranea,Norte,Pozo Somero,Campo,3,Seca,,2021,Q,Q,
+S34,04/19/2023,,50.8,29.7,4.6,1055749,1311631,105,0,7.808604046,-73.62108742,-46.2,-7.27,,11.96,Finca la Floresta,Subterranea,Sur,Aljibe,ZEMS,4,Humeda,,2023,,,Sur
+132,03/19/2021,,180.8,,,1055235,1387367,93,,7.808604046,-73.62108742,-52.1204,-7.6744,Los Robles2,9.2748,Los Robles 2,Subterranea,Norte,Pozo Somero,Campo,3,Seca,,2021,Q,Q,
+104,03/15/2021,,133,,6.2,1045152,1410521,78,0,7.371548843,-73.6208869,-52.1135,-7.6553,La victoria,9.1289,Finca La Victoria,Subterranea,Norte,Manantial,Campo,3,Seca,,2021,Q,Q,
+355,03/16/2021,,,,,1043294,1338810,46,25,7.371548843,-73.6208869,-52.1066,-8.2352,Finca Tachuela - Tipo: Pozo,13.775,Finca Tachuela,Subterranea,Norte,Pozo Somero,Campo,3,Seca,,2021,Q,Q,
+415,03/17/2021,,124,,7.6,1025826,1290995,40,100,7.117380865,-73.62007157,-51.9695,-7.8907,Acueducto el Pedral,11.1561,Acueducto El Pedral,Subterranea,Sur,Pozo Profundo,Campo,3,Seca,,2021,Q,Q,
+,11/04/2020,,187,,6.48,1049566,1398846,80,75,7.117380865,-73.62007157,-51.88,-7.76,Pozo Somero - 60m,10.2,Pista Celta,Subterranea,Norte,Pozo Somero,Campo,11,Humeda,,2020,Q,Q,
+299,11/04/2020,,210.7,,3.89,1043294,1338810,46,25,8.21375402,-73.614763,-51.81,-8.06,Tachuela-25m,12.67,Finca Tachuela,Subterranea,Norte,Pozo Somero,Campo,11,Humeda,,2020,Q,Q,
+K53,04/01/2021,,,,5.17,,,78,4.7,8.106953406,-73.61410677,-51.78,-8.21,,13.9,Finca Si Se puede,Subterranea,Sur,Aljibe,Kale_platero,4,Humeda,,2021,,,
+325,03/18/2021,,226,,,1052356,1323095,70,45,8.389582469,-73.61373206,-51.5527,-8.0719,Finca la Argentina,13.0225,Hacienda La Argentina,Subterranea,Norte,Pozo Somero,Campo,3,Seca,,2021,Q,Q,
+S38,11/07/2020,,115,,5.54,1016584,1305796,56,100,8.389582469,-73.61373206,-45.6,-7.36,Acueducto-Cantagallo-Brisas-100m,13.28,Acueducto Brisas,Subterranea,Sur,Pozo Profundo,Campo,11,Humeda,,2020,Q,Q,Sur
+S32,11/08/2020,,18,,6.16,1044360,1294586,133,0,8.184722235,-73.61055551,-44.91,-7.2,Manantial Puerto Cayumba,12.69,Bocatoma acueducto Cayumba,Subterranea,Sur,Manantial,Campo,11,Humeda,,2020,Qat,Q,Sur
+,11/11/2020,,780,,5.81,1073994,1320051,107,385,8.199035614,-73.6086465,-51.48,-7.98,ABA 4 Campo provincia - 385m,12.36,ABA 4,Subterranea,Norte,ABA,Campo,11,Humeda,,2020,N1r (U4),N1r ,
+K10,04/01/2021,,,,5.9,,,72,7.4,8.199035614,-73.6086465,-44.29,-6.85,,10.51,Finca La Florida (Las Pampas),Subterranea,Sur,Aljibe,Kale_platero,4,Humeda,,2021,,,Sur
+S29,11/06/2020,,41,,4.4,1041849,1297196,113,80,8.199477487,-73.60764773,-44.11,-7.09,Acueducto-Taladro2-80m,12.61,Acueducto El Taladro,Subterranea,Sur,Pozo Profundo,Campo,11,Humeda,,2020,N1r (U4),N1r ,Sur
+M20781,12/19/2023,,,,,,,65.5,12,8.313282169,-73.60676881,-51.28,-7.89,,11.84,Finca Villanueva ,Subterranea,Sur,Aljibe,ANH-SGI,1,Seca,,2024,,,
+74,11/05/2020,,157.6,,4.48,1057677,1319462,75,88,7.361099764,-73.60668713,-51.26,-8.17,FincaSanCristobal-88m,14.1,Finca San Cristobal,Subterranea,Norte,Pozo Profundo,Campo,11,Humeda,,2020,N1r (U4),N1r ,
+S18,11/07/2020,,38.8,,4.83,1038300,1314534,64,0,7.986112065,-73.60613521,-43.73,-6.72,Manantial Vía Férrea,10.03,Manantial via ferrea,Subterranea,Sur,Manantial,Campo,11,Humeda,,2020,N1r (U4),N1r ,Sur
+471,11/06/2020,,223,,6.54,1025826,1290995,40,100,7.986112065,-73.60613521,-50.93,-7.52,Acueducto El Pedral - 73m,9.23,Acueducto El Pedral,Subterranea,Sur,Pozo Profundo,Campo,11,Humeda,,2020,Q,Q,
+,11/09/2020,,210,,7.13,1054415,1369685,56,60,8.208191453,-73.60585875,-50.83,-7.84,AcueductoBancaTorcoroma-50m,11.89,Acueducto Torcoroma,Subterranea,Norte,Pozo Somero,Campo,11,Humeda,,2020,Q,Q,
+S20,11/06/2020,,36,,3.57,1050414,1306942,137,38,8.208191453,-73.60585875,-43.25,-6.76,VillaMaria-SOMERO,10.83,Finca Villa Maria,Subterranea,Sur,Pozo Somero,Campo,11,Humeda,,2020,N1r (U4),N1r ,Sur
+N16,09/21/2023,30,90,,8.4,1039585.1,1377754.83,33,337,8.310375756,-73.60332281,-50.83,-7.48,,9.01,Pozo Griselda,Subterranea,Norte,ABA,ZEMS,9,Seca,,2023,,,Norte
+,11/07/2020,,604,,7.54,1048991.38,1267594.93,93,72,7.517583681,-73.60314084,-50.76,-8.07,Pozo Somero-70m,13.8,Finca La Cabaña,Subterranea,Sur,Pozo Somero,Campo,11,Humeda,,2020,N1r (U1),N1r ,
+K6,04/01/2021,,,,4.82,,,67,7.2,8.310392344,-73.60207009,-43.17,-6.79,,11.15,Finca La Daniela,Subterranea,Sur,Aljibe,Kale_platero,4,Humeda,,2021,,,Sur
+S39,04/19/2023,,97.3,28.8,6.5,1064803,1308884,140,120,8.006964977,-73.60077769,-42.74,-7.38,,16.3,Pozo Espusato - ABA,Subterranea,Sur,Pozo Profundo,ZEMS,4,Humeda,,2023,,,Sur
+,11/04/2020,,837,,7.59,1039447.15,1269259.31,73,95,8.006964977,-73.60077769,-50.42,-7.79,Pozo Somero-95m,11.9,La Esperanza,Subterranea,Sur,Pozo Profundo,Campo,11,Humeda,,2020,P3N1c,P3N1c,
+326,03/17/2021,,199.4,,,1057677,1319462,75,83,8.312648906,-73.59889021,-50.303,-7.9789,Finca San Cristobal,13.5282,Finca San Cristobal,Subterranea,Norte,Pozo Profundo,Campo,3,Seca,,2021,N1r (U4),N1r ,
+211,03/16/2021,,206,,7.4,1050341,1355279,84,55,8.110811489,-73.58859812,-50.293,-7.7777,Plamas del cesar- Finca Labrador,11.9286,Plamas del cesar Finca Labrador,Subterranea,Norte,Pozo Somero,Campo,3,Seca,,2021,Q,Q,
+M20673,12/12/2023,,,,,,,50,80,8.043004198,-73.58486966,-50.26,-7.6,,10.54,Finca Bella Vista,Subterranea,Sur,Pozo Profundo,ANH-SGI,1,Seca,,2024,,,
+N21,11/07/2020,,341,,6.79,1039525,1377690,33,90,7.938816619,-73.58399697,-50.01,-7.57,W216,10.55,Barrancalebrija,Subterranea,Norte,Pozo Profundo,Campo,11,Humeda,,2020,Q,Q,Norte
+M20922,12/20/2023,,,,,,,121.21,80,8.101791825,-73.57684161,-49.99,-2.51,,-29.91,Alianza Petrolera,Subterranea,Sur,Pozo Profundo,ANH-SGI,1,Seca,,2024,,,
+K54,04/01/2021,,,,7.8,,,78,100,8.098680944,-73.5763646,-49.93,-7.75,,12.07,Oficinas Bucarelia S. A,Subterranea,Sur,Pozo Profundo,Kale_platero,4,Humeda,,2021,,,
+,11/04/2020,,302,,6.23,1052236,1410777,165,18,7.413894085,-73.57251859,-49.88,-7.71,LavautosJT-18,11.8,Lavadero JT Aguachica,Subterranea,Norte,Aljibe,Campo,11,Humeda,,2020,Q,Q,
+,11/05/2020,,1873,,8.08,1047938,1277775,95,165,7.413894085,-73.57251859,-49.8,-7.78,Pozo Somero-165m,12.44,119 II B 25,Subterranea,Sur,Pozo Profundo,Campo,11,Humeda,,2020,N1r (U2),N1r ,
+470,11/06/2020,,180,,7.3,1032251,1293053,82,105,8.10709843,-73.56716407,-49.77,-7.57,Acueducto-PteSogamoso-92m,10.79,Acueducto Pte Sogamoso,Subterranea,Sur,Pozo Profundo,Campo,11,Humeda,,2020,N1r (U3),N1r ,
+N24,09/20/2023,6,,,,1039585.1,1377754.83,33,337,7.208951207,-73.55676865,-49.51,-7.61,,11.37,Pozo Griselda,Subterranea,Norte,ABA,ZEMS,9,Seca,,2023,,,Norte
+413,03/17/2021,,157,,7.7,1032251,1293053,82,105,7.208951207,-73.55676865,-49.5045,-7.7788,Acueducto Puente Sogamoso 1/ Luis Ochoa,12.7259,Acueducto Pte Sogamoso,Subterranea,Sur,Pozo Profundo,Campo,3,Seca,,2021,N1r (U3),N1r ,
+N20,03/19/2021,,401,,7.1,1054305,1381208,77,10,7.897814159,-73.55537193,-49.4994,-7.527,Finca Vida Tranquila,10.7166,Finca Vida Tranquila,Subterranea,Norte,Aljibe,Campo,3,Seca,,2021,Q,Q,Norte
+225,03/19/2021,,278,,7.3,1061712,1370756,81,48,7.484680173,-73.55497086,-49.4192,-7.6805,Finca  Villa Rosario,12.0248,Finca Villa Rosario,Subterranea,Norte,Pozo Somero,Campo,3,Seca,,2021,Q,Q,
+101,03/15/2021,,288,,6.2,1051856,1411098,165,,7.484680173,-73.55497086,-49.3907,-7.4853,Lavautos JP,10.4917,Lavaautos en Aguachica,Subterranea,Norte,Pozo Somero,Campo,3,Seca,,2021,Q,Q,
+,11/11/2020,,24,,4.67,1027256,1285418,68,0,7.162608882,-73.55453099,-49.18,-7.75,Manantial,12.82,La Dueña,Subterranea,Sur,Manantial,Campo,11,Humeda,,2020,N1r (U2),N1r ,
+N17,09/20/2023,12,,,,1039585.1,1377754.83,33,337,7.162608882,-73.55453099,-49.11,-7.48,,10.73,Pozo Griselda,Subterranea,Norte,ABA,ZEMS,9,Seca,,2023,,,Norte
+S13,04/21/2023,,140.2,80.5,5.3,1016584,1305790,56,120,7.384444469,-73.54972221,-42.52,-6.52,,9.64,Pozo Daniel Yepes,Subterranea,Sur,Pozo Profundo,ZEMS,4,Humeda,,2023,,,Sur
+,11/09/2020,,44,,4.65,1026574,1284222,73,300,7.450015318,-73.54852596,-49.02,-7.42,ABA-Llanito1A,10.34,Llanito 1 ABAS,Subterranea,Sur,ABA,Campo,11,Humeda,,2020,N1r (U1),N1r ,
+S22,04/20/2023,,423,30.3,4.4,1024780,1305652,63,20,7.450015318,-73.54852596,-42.29,-6.77,,11.87,Pozo Johan Ruiz,Subterranea,Sur,Aljibe,ZEMS,4,Humeda,,2023,,,Sur
+411,03/16/2021,,63,,7,1038152,1287918,112,100,7.450015318,-73.54852596,-48.9409,-7.7455,Elena Carpio,13.0231,Campamento Palma San Rafael,Subterranea,Sur,Pozo Profundo,Campo,3,Seca,,2021,N1r (U3),N1r ,
+177,11/04/2020,,78.1,,4.22,1059487,1334168,74,50,7.130907508,-73.54625699,-48.93,-7.46,Finca San Fernando - 50M,10.75,Finca San Fernando,Subterranea,Norte,Pozo Somero,Campo,11,Humeda,,2020,Q,Q,
+431,03/19/2021,,26,,7.2,1018347,1328993,95,85,7.384836142,-73.54362221,-48.9171,-7.8068,San Pablo- Acueducto Socorro,13.5373,Acueducto Socorro,Subterranea,Norte,Pozo Profundo,Campo,3,Seca,,2021,N1r (U3),N1r ,
+N19,09/20/2023,2,,,,1039585.1,1377754.83,33,337,7.617628016,-73.53840854,-48.89,-7.51,,11.19,Pozo Griselda,Subterranea,Norte,ABA,ZEMS,9,Seca,,2023,,,Norte
+,11/06/2020,,225,,8.35,1060168,1341618,68,45,7.617628016,-73.53840854,-48.83,-7.7,Hda Oklahoma-45m,12.77,Hda Oklahoma,Subterranea,Norte,Pozo Somero,Campo,11,Humeda,,2020,Q,Q,
+N22,11/05/2020,,322,,6.84,1052556,1377220,65,32,8.04453272,-73.53502913,-48.76,-7.57,Pozo Somero FincaElRecuerdo-32m,11.8,Finca El recuerdo,Subterranea,Norte,Pozo Somero,Campo,11,Humeda,,2020,Q,Q,Norte
+N18,11/09/2020,,215,,6.82,1067344.14,1378653.01,136,70,7.684980753,-73.53215162,-48.68,-7.49,FincaCañoClaro-70m,11.24,Predio Caño Claro,Subterranea,Norte,Pozo Somero,Campo,11,Humeda,,2020,Q,Q,Norte
+203,03/15/2021,,129,,6.6,1059487,1334168,74,50,7.684980753,-73.53215162,-48.6383,-7.6843,Hda San Fernando,12.8361,Finca San Fernando,Subterranea,Norte,Pozo Somero,Campo,3,Seca,,2021,Q,Q,
+K46,04/01/2021,,,,4.91,,,81,5.9,7.901074062,-73.53092879,-41.65,-7.44,,17.87,Finca Casa Roja,Subterranea,Sur,Aljibe,Kale_platero,4,Humeda,,2021,,,Sur
+N26,09/20/2023,,,,,1039585.1,1377754.83,33,337,7.86819795,-73.53023747,-48.36,-7.71,,13.32,Pozo Griselda,Subterranea,Norte,ABA,ZEMS,9,Seca,,2023,,,Norte
+,11/05/2020,,218,,6.5,1065850,1357264,68,40,7.86819795,-73.53023747,-48.26,-7.67,Pozo SomeroFincaLaEsperanza-40m,13.1,Finca La Esperanza I,Subterranea,Norte,Pozo Somero,Campo,11,Humeda,,2020,Q,Q,
+K2,04/01/2021,,,,4.04,,,77,11.7,8.013643651,-73.51908746,-41.21,-6.25,,8.79,Finca La Belleza,Subterranea,Sur,Aljibe,Kale_platero,4,Humeda,,2021,,,Sur
+N23,11/05/2020,,259,,6.65,1065754,1380641,136,37,7.948416341,-73.51780654,-48.19,-7.58,Pozo Somero FincaElDiviso-37m,12.45,_Finca el diviso II NO UBICADO,Subterranea,Norte,Pozo Somero,Campo,11,Humeda,,2020,Q,Q,Norte
+,11/06/2020,,411,,5.6,1028461,1471180,0,80,7.469137883,-73.50439421,-47.75,-7.21,AcueductoTamalameque-80m,9.93,Acueducto Tamalameque,Subterranea,Norte,Pozo Profundo,Campo,11,Humeda,,2020,Qfal,Q,
+201,03/15/2021,,228,,6.7,1060168,1341618,68,45,7.897796937,-73.50096276,-47.7092,-7.4894,Hda Oklahoma,12.206,Hda Oklahoma,Subterranea,Norte,Pozo Somero,Campo,3,Seca,,2021,Q,Q,
+M20661,12/12/2023,,,,,,,78,10,7.897796937,-73.50096276,-47.7,-7.17,,9.66,San Rafael de Chucuri,Subterranea,Sur,Aljibe,ANH-SGI,1,Seca,,2024,,,
+S14,11/05/2020,,15.9,,4.16,1047656,1304710,125,0,7.392464673,-73.497945,-40.48,-6.52,Manatial Villaluz,11.68,Caserío Sabaneta,Subterranea,Sur,Manantial,Campo,11,Humeda,,2020,N1r (U4),N1r ,Sur
+108,03/15/2021,,454,,7.1,1049226,1427521,70,,7.399076614,-73.49288222,-47.5967,-6.907,EDS Los Lagos,7.6593,EDS Los Lagos,Subterranea,Norte,Pozo Somero,Campo,3,Seca,,2021,Q,Q,
+410,03/16/2021,,52,,6.3,1032527,1286179,89,0,7.388955842,-73.49054061,-47.5554,-7.4248,Jose Cristobal Calderon,11.843,Manantial Tabla Roja,Subterranea,Sur,Manantial,Campo,3,Seca,,2021,N1r (U2),N1r ,
+K4,04/01/2021,,,,6.56,,,68,30,7.388955842,-73.49054061,-40.43,-6.36,,10.45,Finca San Fernando,Subterranea,Sur,Pozo somero,Kale_platero,4,Humeda,,2021,,,Sur
+,11/06/2020,,169,,6.38,1038522,1457354,0,120,7.388955842,-73.49054061,-47.54,-7.32,AcueductoCostilla-120m,11.02,Acueducto Costilla,Subterranea,Norte,Pozo Profundo,Campo,11,Humeda,,2020,Qfal,Q,
+,11/09/2020,,230,,6,1046265,1410389,78,0,7.942310792,-73.48340652,-47.4,-7.37,Finca San Martin,11.56,Finca San Martin ,Subterranea,Norte,Manantial,Campo,11,Humeda,,2020,Q,Q,
+112,03/16/2021,,163,,6.4,1038522,1457354,0,120,8.037740048,-73.48101886,-47.3167,-7.3645,Acueducto Costillas,11.5993,Acueducto Costilla,Subterranea,Norte,Pozo Profundo,Campo,3,Seca,,2021,Qfal,Q,
+208,03/16/2021,,214,,6.8,1065850,1357264,68,40,7.826376317,-73.48045298,-47.3072,-7.6066,Finca la Esperanza,13.5456,Finca La Esperanza I,Subterranea,Norte,Pozo Somero,Campo,3,Seca,,2021,Q,Q,
+433,03/19/2021,,41,,7.3,1015719,1323154,53,75,7.826376317,-73.48045298,-47.1972,-7.4384,San Pablo- Acueducto Caguices,12.31,Acueducto Caguices,Subterranea,Norte,Pozo Somero,Campo,3,Seca,,2021,N1r (U3),N1r ,
+N28,09/20/2023,1,210,,11,1039585.1,1377754.83,33,337,7.476617757,-73.4789462,-47.08,-8.13,,17.96,Pozo Griselda,Subterranea,Norte,ABA,ZEMS,9,Seca,,2023,,,Norte
+M20670,12/12/2023,,,,,,,11.85,43,7.931016607,-73.47615859,-46.99,-7.24,,10.93,Acueducto Provincia ,Subterranea,Sur,Pozo somero,ANH-SGI,1,Seca,,2024,,,
+N14,09/20/2023,,,,,1039585.1,1377754.83,33,337,7.931016607,-73.47615859,-46.99,-7.27,,11.17,Pozo Griselda,Subterranea,Norte,ABA,ZEMS,9,Seca,,2023,,,Norte
+110,03/16/2021,,403,,5.6,1028461,1471180,0,80,7.337275037,-73.4714544,-46.8422,-7.0724,Acueducto Tamalameque,9.737,Acueducto Tamalameque,Subterranea,Norte,Pozo Profundo,Campo,3,Seca,,2021,Qfal,Q,
+,11/07/2020,,503,,6.49,1058685,1280337,116,304,7.923278797,-73.47109137,-46.8,-7.38,ABA,12.24,Lizama ABAS,Subterranea,Sur,ABA,Campo,11,Humeda,,2020,P3N1c,P3N1c,
+217,03/17/2021,,109.5,,7.2,1060353,1361882,73,60,7.923278797,-73.47109137,-46.727,-7.5385,I.E. La Curva-El Barro,13.581,IE La Curva El Barro,Subterranea,Norte,Pozo Somero,Campo,3,Seca,,2021,Q,Q,
+S15,11/08/2020,,33,,4.34,1046632,1297845,131,60,8.019744641,-73.46662128,-40.19,-6.56,José Ortega - 40m,12.29,Finca Santa Monica,Subterranea,Sur,Pozo Somero,Campo,11,Humeda,,2020,N1r (U4),N1r ,Sur
+M20805,12/19/2023,,,,,,,94,0,7.886003292,-73.46662093,-46.69,-7.18,,10.75,Los Mangos,Subterranea,Sur,Manantial,ANH-SGI,1,Seca,,2024,,,
+111,03/16/2021,,163,,7.1,1042366,1473567,0,105,7.820895167,-73.46021542,-46.4203,-7.1905,Acueducto Palestina,11.1037,Acueducto Palestina,Subterranea,Norte,Pozo Profundo,Campo,3,Seca,,2021,Qcal,Q,
+414,03/17/2021,,102,,6.4,1032212,1293140,82,,7.820895167,-73.46021542,-46.3895,-7.5713,Acueducto Puente Sogamoso 2/ Luis Ochoa,14.1809,Acueducto Pte Sogamoso 2,Subterranea,Sur,Pozo Somero,Campo,3,Seca,,2021,Q,Q,
+102,03/15/2021,,403,,6,1050110,1411139,133,0,7.344907519,-73.45912726,-46.3576,-7.3603,Bosque Aguil,12.5248,Bosque Aguil,Subterranea,Norte,Manantial,Campo,3,Seca,,2021,Q,Q,
+215,03/17/2021,,70,,7.2,1057577,1365154,69,45,7.325704298,-73.45355712,-46.2265,-7.5994,F Miraflores- San jose de las Americas,14.5687,Finca Miraflores II,Subterranea,Norte,Pozo Somero,Campo,3,Seca,,2021,Q,Q,
+S33,04/19/2023,,135.6,30,6.1,1058393,1315629,84,42,7.33354547,-73.44852,-40.19,-7.21,,17.49,Pozo Eduar Tapias,Subterranea,Sur,Pozo Somero,ZEMS,4,Humeda,,2023,,,Sur
+N15,03/19/2021,,198.7,,6.7,1052556,1377220,65,32,7.70424319,-73.43081009,-46.1688,-7.384,Finca El recuerdo,12.9032,Finca El recuerdo,Subterranea,Norte,Pozo Somero,Campo,3,Seca,,2021,Q,Q,Norte
+,11/04/2020,,472,,6.14,1050110,1411139,133,0,7.77932226,-73.42986161,-46,-7.2,Manantial-BosqueAguil,11.6,Bosque Aguil,Subterranea,Norte,Manantial,Campo,11,Humeda,,2020,Q,Q,
+,11/11/2020,,17,,6.6,1036216,1281984,88,0,7.77932226,-73.42986161,-45.87,-7.25,Manantial,12.13,Finca La Esmeralda I,Subterranea,Sur,Manantial,Campo,11,Humeda,,2020,N1r (U2),N1r ,
+K13,04/01/2021,,,,5.85,,,66,7.7,7.461495771,-73.42480402,-45.77,-7,,10.23,Finca Tierra linda,Subterranea,Sur,Aljibe,Kale_platero,4,Humeda,,2021,,,
+M20928,12/20/2023,,,,,,,56.6,50,7.461495771,-73.42480402,-45.66,-1.84,,-30.94,Finca El Holán ,Subterranea,Sur,Pozo somero,ANH-SGI,1,Seca,,2024,,,
+M21222,12/19/2023,,,,,,,509,0,7.461495771,-73.42480402,-45.61,-7.11,,11.27,Las Piscinas ,Subterranea,Sur,Manantial,ANH-SGI,1,Seca,,2024,,,
+,11/06/2020,,9.8,,4.49,1038152,1287918,112,100,7.831366033,-73.42473139,-45.5,-7.17,Pozo Somero-90m,11.86,Campamento Palma San Rafael,Subterranea,Sur,Pozo Profundo,Campo,11,Humeda,,2020,N1r (U3),N1r ,
+K44,04/01/2021,,,,5.19,,,71,5.2,7.765540544,-73.42232237,-39.62,-6.78,,14.62,Finca Montecristo,Subterranea,Sur,Aljibe,Kale_platero,4,Humeda,,2021,,,Sur
+K8,04/01/2021,,,,6.09,,,100,0,7.765540544,-73.42232237,-39.17,-6.14,,9.95,Manati Blanco,Subterranea,Sur,Manantial,Kale_platero,4,Humeda,,2021,,,Sur
+409,03/16/2021,,41,,6.5,1029766,1284420,83,0,7.461881118,-73.40978843,-45.3267,-7.3212,108-III-D-49,13.2429,108 III D 49,Subterranea,Sur,Manantial,Campo,3,Seca,,2021,Q,Q,
+106,03/15/2021,,261,,6.6,1046265,1410389,78,0,7.489805573,-73.40714154,-45.256,-6.7294,Finca San Martin,8.5792,Finca San Martin ,Subterranea,Norte,Manantial,Campo,3,Seca,,2021,Q,Q,
+K3,04/01/2021,,,,4.94,,,69,,7.79344337,-73.39989574,-45.22,-6.95,,10.38,Finca San Martin (Agropalma),Subterranea,Sur,Pozo Profundo,Kale_platero,4,Humeda,,2021,,,
+K41,04/01/2021,,,,5.23,,,78,4.6,7.102,-73.396,-45.16,-8.24,,20.76,Finca La Primavera,Subterranea,Sur,Aljibe,Kale_platero,4,Humeda,,2021,,,
+K51,04/01/2021,,,,4.78,,,89,0,7.102,-73.396,-45.13,-7.76,,16.95,Agrícola del Norte,Subterranea,Sur,Manantial,Kale_platero,4,Humeda,,2021,,,
+S8,04/20/2023,,142.3,27.9,4.1,1027666,1307989,71,8,7.102,-73.396,-38.8,-6.1,,10,Pozo La Esmeralda,Subterranea,Sur,Aljibe,ZEMS,4,Humeda,,2023,,,Sur
+,11/09/2020,,225,,6.27,1043744,1277159,91,17.5,7.102,-73.396,-44.89,-7.11,Pozo Somero-17.5m,11.99,Uvaldino Arroyo,Subterranea,Sur,Aljibe,Campo,11,Humeda,,2020,N1r (U2),N1r ,
+,11/06/2020,,259,,5.27,1037406,1449485,37,,7.102,-73.396,-44.42,-7,VillaRicardo,11.58,Villa Ricardo,Subterranea,Norte,Pozo Somero,Campo,11,Humeda,,2020,Qfal,Q,
+,11/10/2020,,28,,6.13,1025176,1284457,43,0,7.102,-73.396,-44.38,-6.98,Cienaga El Llanito,11.46,Cienaga Llanito,Superficial,Sur,Cienaga,Campo,11,Humeda,,2020,Q,Q,Sur
+,11/10/2020,,190,,6.62,1050341,1355279,47,55,7.102,-73.396,-44.31,-6.9,Labrador-55m,10.89,Plamas del cesar Finca Labrador,Subterranea,Norte,Pozo Somero,Campo,11,Humeda,,2020,Q,Q,
+,11/05/2020,,286,,7.24,1068083,1356661,68,53,7.102,-73.396,-44.21,-7.2,LaPradera-53m,13.39,Finca La Pradera,Subterranea,Norte,Pozo Somero,Campo,11,Humeda,,2020,Q,Q,
+,11/09/2020,,52,,5.59,1046014,1282990,151,100,7.102,-73.396,-43.95,-6.97,Pozo Somero-100m,11.81,Hacienda La Esmeralda,Subterranea,Sur,Pozo Profundo,Campo,11,Humeda,,2020,N1r (U3),N1r ,
+S9,11/10/2020,,14,,5.27,1072049,1316917,130,0,7.102,-73.396,-37.96,-6.1,Monterrojo-Manantial,10.84,Manantial Monte Rojo,Subterranea,Sur,Manantial,Campo,11,Humeda,,2020,N1r (U3),N1r ,Sur
+,11/06/2020,,550,,7,1049226,1427521,70,100,7.102,-73.396,-43.57,-6.36,EDS-LosLagos-100m,7.31,EDS Los Lagos,Subterranea,Norte,Pozo Profundo,Campo,11,Humeda,,2020,N1r (U3),N1r ,
+109,03/15/2021,,439,,6.5,1052724,1411029,165,,7.102,-73.396,-43.4226,-6.9533,Iglesia Cuadrangular,12.2038,Iglesia Cuadrangular ,Subterranea,Norte,Pozo Somero,Campo,3,Seca,,2021,Q,Q,
+K14,04/01/2021,,,,4.93,,,76,5.4,7.763635439,-73.39525693,-35.53,-5.59,,9.19,"La independencia, Lote 047",Subterranea,Sur,Aljibe,Kale_platero,4,Humeda,,2021,,,Sur
+,11/06/2020,,64,,5.19,1060353,1361882,73,60,7.845555582,-73.39281204,-43.29,-6.98,LaCurva-ElBarro-60m,12.55,IE La Curva El Barro,Subterranea,Norte,Pozo Somero,Campo,11,Humeda,,2020,Q,Q,
+113,03/16/2021,,258,,5.3,1037406,1449485,37,,7.756686033,-73.38618508,-43.2847,-6.8211,Villa Ricardo,11.2841,Villa Ricardo,Subterranea,Norte,Pozo Somero,Campo,3,Seca,,2021,Qfal,Q,
+,11/10/2020,,254,,7.06,1067366,1363861,97,54,6.262,-73.303,-43.25,-6.67,PlamasDelCesar-54m,10.11,Palmas del Cesar Planta,Subterranea,Norte,Pozo Somero,Campo,11,Humeda,,2020,Q,Q,
+207,03/16/2021,,277,,7,1068083,1356661,68,53,6.262,-73.303,-43.1971,-7.0162,Finca la Pradera,12.9325,Finca La Pradera,Subterranea,Norte,Pozo Somero,Campo,3,Seca,,2021,Q,Q,
+S5,04/19/2023,,37.4,30.7,7.6,1073706.51,1316962.1,130,,6.262,-73.303,-33.92,-5.34,,8.8,Via Sabana de Torres ,Subterranea,Sur,Manantial,ZEMS,4,Humeda,,2023,,,Sur
+137,03/20/2021,,194.2,,,1038007,1411960,29,0,6.262,-73.303,-43.0496,-6.9334,Baquero Gamarra,12.4176,Cienaga Baquero,Superficial,Norte,Cienaga,Campo,3,Seca,,2021,Q,Q,
+M20665,12/12/2023,,,,,,,129,0,6.262,-73.303,-42.93,-6.71,,10.75,Paintball,Subterranea,Sur,Manantial,ANH-SGI,1,Seca,,2024,,,
+S2,04/19/2023,,24.7,26.8,4.9,1072049,1316917,130,,6.262,-73.303,-24.88,-4.7,,12.72,Via Sabana de Torres ,Subterranea,Sur,Manantial,ZEMS,4,Humeda,,2023,,,Sur
+,11/10/2020,,262,,6.61,1071438,1352068,96,60,6.262,-73.303,-42.28,-6.86,SanIsidro-60m,12.6,Finca Miraflores San Isidro,Subterranea,Norte,Pozo Somero,Campo,11,Humeda,,2020,Q,Q,
+313,03/17/2021,,115.7,,,1041994,1315218,104,32,6.262,-73.303,-42.0582,-6.8432,Finca Capitolio,12.6874,Finca Capitolio ,Subterranea,Sur,Pozo Somero,Campo,3,Seca,,2021,N1r (U4),N1r ,
+,11/06/2020,,158,,6.5,1056247.92,1388299.24,93,,6.262,-73.303,-42.01,-6.53,W214,10.23,EDS Petrovial,Subterranea,Norte,Pozo Somero,Campo,11,Humeda,,2020,Q,Q,
+K9,04/01/2021,,,,4.58,,,91,8,6.262,-73.303,-41.7,-6.53,,10.54,Finca Llanogrande,Subterranea,Sur,Aljibe,Kale_platero,4,Humeda,,2021,,,
+,11/06/2020,,139,,6.5,1042366,1473567,0,105,6.262,-73.303,-41.64,-6.59,Acueducto Palestina-100m,11.08,Acueducto Palestina,Subterranea,Norte,Pozo Profundo,Campo,11,Humeda,,2020,Qcal,Q,
+405,03/16/2021,,59,,7.3,1026941,1282699,73,0,6.262,-73.303,-41.589,-6.6064,Sra.,11.2622,Manantial Sra ,Subterranea,Sur,Manantial,Campo,3,Seca,,2021,N1r (U2),N1r ,
+218,03/17/2021,,284,,7.4,1063577,1365160,85,50,7.026,-73.167,-41.4768,-6.7721,Finca El Porvenir,12.7,Finca El Porvenir,Subterranea,Norte,Pozo Somero,Campo,3,Seca,,2021,Q,Q,
+,11/04/2020,,278,,6.44,1066867,1367983,102,20,7.026,-73.167,-41.43,-6.31,Finca San Miguel - 20m,9.05,Finca San Miguel,Subterranea,Norte,Pozo Somero,Campo,11,Humeda,,2020,Q,Q,
+216,03/17/2021,,218,,7.4,1060272,1365518,77,50,7.026,-73.167,-41.3931,-6.8948,Finca Bellas Palmas,13.7653,Finca Bellas Palmas,Subterranea,Norte,Pozo Somero,Campo,3,Seca,,2021,Q,Q,
+206,03/16/2021,,238,,6.5,1071438,1352068,96,60,7.026,-73.167,-41.2227,-6.9313,Finca Miraflores - San Isidro,14.2277,Finca Miraflores San Isidro,Subterranea,Norte,Pozo Somero,Campo,3,Seca,,2021,Q,Q,
+K105,12/01/2022,,,,,,,100,0,7.026,-73.167,-72,-10.6,,12.8,Manati Blanco,Subterranea,Sur,Manantial,Kale_lluvia,12,Seca,,2022,,,Sur
+K56,04/01/2021,,,,6.12,,,71,15.4,7.026,-73.167,-40.95,-6.54,,11.37,Bufalera La Princesa,Subterranea,Sur,Aljibe,Kale_platero,4,Humeda,,2021,,,
+S64,03/27/2021,,,,,1026143,1302032,79,64,7.026,-73.167,-55.6505,-8.5848,Kilometro 8,13.0279,Acueducto km 8,Subterranea,Sur,Pozo Somero,Campo,3,Seca,,2021,Q,Q,Sur
+S57,03/18/2021,,2170,,7.7,1018040,1307967,49,125,7.026,-73.167,-53.6648,-8.0453,Pozo Acueducto Cantagallo,10.6976,Acueducto Cantagallo,Subterranea,Sur,Pozo Profundo,Campo,3,Seca,,2021,N1r (U3),N1r ,Sur
+S62,03/17/2021,,151,,7.9,1033847,1301722,106,68,7.026,-73.167,-53.5201,-8.4397,Acueducto San Claver/Jorge Leal,13.9975,Acueducto San Claver,Subterranea,Sur,Pozo Somero,Campo,3,Seca,,2021,N1r (U4),N1r ,Sur
+432,03/19/2021,,172,,9,1015397,1339347,58,65,7.026,-73.167,-40.4545,-6.7335,San Pablo- Acueducto Santodomingo,13.4135,Acueducto Santodomingo,Subterranea,Norte,Pozo Somero,Campo,3,Seca,,2021,N1r (U3),N1r ,
+S63,03/19/2021,,116,,,1043911,1304451,103,80,7.026,-73.167,-52.9902,-8.4495,Corregimiento Pradilla,14.6058,Pradilla,Subterranea,Sur,Pozo Profundo,Campo,3,Seca,,2021,N1r (U4),N1r ,Sur
+,11/07/2020,,231,,6.6,1063577,1365160,85,50,7.026,-73.167,-40.38,-6.74,ElPorvenir-50m,13.54,Finca El Porvenir,Subterranea,Norte,Pozo Somero,Campo,11,Humeda,,2020,Q,Q,
+,11/09/2020,,309,,6.31,1047593,1410168,133,0,7.144722201,-73.12499996,-40.3,-6.28,ManantialAguachica,9.94,Manantial Aguachica,Subterranea,Norte,Manantial,Campo,11,Humeda,,2020,Q,Q,
+S55,03/27/2021,,,,,1020830.7,1311475.15,54,9,7.144722201,-73.12499996,-51.475,-8.0016,C-501 Caserio,12.5378,Escuela Caserio,Subterranea,Sur,Aljibe,Campo,3,Seca,,2021,Q,Q,Sur
+S48,03/27/2021,,,,,1020894,1306803,57,365,7.144722201,-73.12499996,-51.3006,-7.6799,C-PCM2,10.1386,PCM 2 ABAS,Subterranea,Sur,ABA,Campo,3,Seca,,2021,N1r (U2),N1r ,Sur
+,11/06/2020,,538,,6.99,1044997,1290078,78,45,7.144722201,-73.12499996,-40.01,-6.52,Pozo Somero-45m,12.15,Finca Isla Bonita,Subterranea,Sur,Pozo Somero,Campo,11,Humeda,,2020,N1r (U4),N1r ,
+124,03/18/2021,,194,,,1042339,1385386,47,0,7.144722201,-73.12499996,-39.9685,-6.6925,Dona Maria Puerto Patino,13.5715,Cienaga Doña Maria,Superficial,Norte,Cienaga,Campo,3,Seca,,2021,Q,Q,Norte
+S52,03/18/2021,,,,,1020894,1306803,57,365,7.144722201,-73.12499996,-50.8976,-7.8944,PCM-2,12.2576,PCM 2 ABAS,Subterranea,Sur,ABA,Campo,3,Seca,,2021,N1r (U2),N1r ,Sur
+S50,03/18/2021,,43.1,,5.2,1064803,1308884,140,125,7.144722201,-73.12499996,-48.8373,-7.7856,Planta Espusato,13.4475,Espusato,Subterranea,Sur,Pozo Profundo,Campo,3,Seca,,2021,N1r (U4),N1r ,Sur
+K50,04/01/2021,,,,5.6,,,73,6.6,7.144722201,-73.12499996,-39.52,-7.34,,19.2,Mulería Santa Fe,Subterranea,Sur,Aljibe,Kale_platero,4,Humeda,,2021,,,
+S46,03/17/2021,,67,,6.7,1041849,1297196,113,80,7.144722201,-73.12499996,-48.1658,-7.6024,Acueducto el Taladro,12.6534,Acueducto El Taladro,Subterranea,Sur,Pozo Profundo,Campo,3,Seca,,2021,N1r (U4),N1r ,Sur
+335,03/20/2021,,32.1,,,1057514,1288967,159,65,7.144722201,-73.12499996,-38.9275,-6.4724,Vereda la Raya,12.8517,Vereda La Raya,Subterranea,Sur,Pozo Somero,Campo,3,Seca,,2021,N1r (U2),N1r ,
+S44,03/18/2021,,38.2,,,1063985,1309271,126,100,7.144722201,-73.12499996,-47.651,-7.5059,Estadio Espusato,12.3962,Espusato II Estadio ,Subterranea,Sur,Pozo Profundo,Campo,3,Seca,,2021,N1r (U4),N1r ,Sur
+S45,03/20/2021,,6.1,,,1058393,1315629,84,42,7.141,-73.118,-47.554,-7.5911,Finca Jamaica,13.1748,Finca Jamaica,Subterranea,Sur,Pozo Somero,Campo,3,Seca,,2021,N1r (U4),N1r ,Sur
+M21478,12/28/2023,,,,,,,141,47,7.141,-73.118,-45.48,-6.99,,10.44,Pozo Finca 02,Subterranea,Sur,Pozo somero,ANH-SGI,1,Seca,,2024,,,Sur
+107,03/15/2021,,434,,7.1,1047593,1410168,133,0,7.141,-73.118,-38.5171,-5.9824,Manantial Sin nombre,9.3421,Manantial Aguachica,Subterranea,Norte,Manantial,Campo,3,Seca,,2021,Q,Q,
+209,03/16/2021,,232,,6.6,1066867,1367983,102,60,7.141,-73.118,-38.4385,-6.4581,Finca San Miguel,13.2263,Finca San MiguEl,Subterranea,Norte,Pozo Somero,Campo,3,Seca,,2021,N1r (U4),N1r ,
+137,11/10/2020,,36.2,,5.64,1057514,1288967,159,65,7.141,-73.118,-38.34,-6.31,LaRaya-65m,12.14,Vereda La Raya,Subterranea,Sur,Pozo Somero,Campo,11,Humeda,,2020,N1r (U2),N1r ,
+S41,03/17/2021,,8,,6.7,1044360,1294586,133,0,7.141,-73.118,-45.4199,-7.4617,Bocatoma acueducto Cayumba,14.2737,Bocatoma acueducto Cayumba,Subterranea,Sur,Manantial,Campo,3,Seca,,2021,Qat,Q,Sur
+K17,02/01/2022,,,,,,,100,0,7.141,-73.118,-43.99,-6.88,,11.05,Manati Blanco,Subterranea,Sur,Manantial,Kale_lluvia,2,Seca,,2022,,,Sur
+S27,03/18/2021,,78,,6.4,1016584,1305796,56,100,7.141,-73.118,-43.7025,-6.9054,Pozo Acueducto Brisas,11.5407,Acueducto Brisas,Subterranea,Sur,Pozo Profundo,Campo,3,Seca,,2021,Q,Q,Sur
+S31,03/17/2021,,811,,,1055749,1311631,105,60,7.141,-73.118,-43.6645,-7.1316,Finca la Floresta,13.3883,Finca La Floresta,Subterranea,Sur,Pozo Somero,Campo,3,Seca,,2021,N1r (U4),N1r ,Sur
+333,03/19/2021,,27.2,,,1050033,1281194,132,8,7.141,-73.118,-37.5458,-5.9263,Villa Haryan,9.8646,Villa Haryan,Subterranea,Sur,Aljibe,Campo,3,Seca,,2021,N1r (U4),N1r ,
+323,03/18/2021,,176,,,1066070,1318581,77,130,7.141,-73.118,-37.4948,-6.0087,Acueducto Vereda la Tigra,10.5748,Acueducto Vereda La Tigra,Subterranea,Norte,Pozo Profundo,Campo,3,Seca,,2021,N1r (U4),N1r ,
+M20924,12/19/2023,,,,,,,213,0,7.141,-73.118,-37.49,-6.02,,10.67,Finca La Floresta,Subterranea,Sur,Aljibe,ANH-SGI,1,Seca,,2024,,,
+324,03/18/2021,,110.4,,,1063262,1317750,87,35,7.102222205,-73.06944438,-37.1843,-6.0625,Finca Los Mangos,11.3157,Finca Los Mangos,Subterranea,Sur,Pozo Somero,Campo,3,Seca,,2021,Q,Q,
+,11/07/2020,,123,,7.44,1038007,1411960,29,0,7.102222205,-73.06944438,-36.69,-6,Cienaga Baquero,11.31,Cienaga Baquero,Superficial,Norte,Cienaga,Campo,11,Humeda,,2020,Q,Q,
+219,03/17/2021,,192.6,,7.5,1065506,1370086,116,50,7.102222205,-73.06944438,-36.5437,-6.0536,Fca Campo Alegre,11.8851,Finca Campo Alegre,Subterranea,Norte,Pozo Somero,Campo,3,Seca,,2021,Q,Q,
+S24,03/19/2021,,40.4,,,1050414,1306942,137,38,7.102222205,-73.06944438,-43.2183,-6.8233,Finca Villa Maria,11.3681,Finca Villa Maria,Subterranea,Sur,Pozo Somero,Campo,3,Seca,,2021,N1r (U4),N1r ,Sur
+S23,03/17/2021,,1452,,,1043176,1312924,104,47,7.102222205,-73.06944438,-43.0236,-6.8022,Finca Villa Cruz,11.394,Finca Villa Cruz,Subterranea,Sur,Pozo Somero,Campo,3,Seca,,2021,N1r (U4),N1r ,Sur
+,11/05/2020,,85,,6.75,1074741,1353635,126,0,7.102222205,-73.06944438,-36.04,-5.98,W208,11.8,Manantial El Diviso,Subterranea,Norte,Manantial,Campo,11,Humeda,,2020,Q,Q,
+S19,03/27/2021,,,,,1027005,1309573,39,7,7.102222205,-73.06944438,-42.4861,-6.7408,C-502,11.4403,Para Piloto,Subterranea,Sur,Aljibe,Campo,3,Seca,,2021,Q,Q,Sur
+S28,03/18/2021,,521,,,1066918,1303171,175,0,7.102222205,-73.06944438,-42.0797,-7.0604,Villa Luz,14.4035,Manantial Villa Luz,Subterranea,Sur,Manantial,Campo,3,Seca,,2021,N1r (U4),N1r ,Sur
+K45,04/01/2021,,,,3.78,,,64,4.7,7.102222205,-73.06944438,-35.45,-6.67,,17.91,Finca Villa Bernarda,Subterranea,Sur,Aljibe,Kale_platero,4,Humeda,,2021,,,
+406,03/16/2021,,182,,6.7,1025176,1284457,43,0,7.102222205,-73.06944438,-35.1979,-5.0152,Cienaga Llanito,4.9237,Cienaga Llanito,Superficial,Sur,Cienaga,Campo,3,Seca,,2021,Q,Q,Sur
+S25,03/17/2021,,181.2,,,1038300,1314534,64,0,7.102222205,-73.06944438,-41.3188,-6.8499,Manantial via ferrea - vda campo tigre,13.4804,Manantial via ferrea,Subterranea,Sur,Manantial,Campo,3,Seca,,2021,N1r (U4),N1r ,Sur
+442,03/20/2021,,132,,,1020769,1353723,30,0,7.102222205,-73.06944438,-34.8575,-4.9265,Cienaga El Pinal,4.5545,Cienaga El Pinal,Superficial,Norte,Cienaga,Campo,3,Seca,,2021,N1r (U2),N1r ,
+M21477,12/28/2023,,,,,,,104,60,7.102222205,-73.06944438,-41.17,-6.38,,9.87,Pozo Finca 01,Subterranea,Sur,Pozo somero,ANH-SGI,1,Seca,,2024,,,Sur
+M20677,12/12/2023,,,,,,,149,26,7.102222205,-73.06944438,-40.93,-6.31,,9.55,San Jorge ,Subterranea,Sur,Aljibe,ANH-SGI,1,Seca,,2024,,,Sur
+446,03/20/2021,,85,,,1016265,1362060,73,0,7.102222205,-73.06944438,-30.6275,-4.6849,Cienaga El Muneco,6.8517,Cienaga El Muneco,Superficial,Norte,Cienaga,Campo,3,Seca,,2021,Qfl,Q,
+S10,03/17/2021,,32,,5.5,1046632,1297845,131,60,7.102222205,-73.06944438,-40.2636,-6.2966,Inaldo Oviedo/Betty,10.1092,Finca Santa Monica,Subterranea,Sur,Pozo Somero,Campo,3,Seca,,2021,N1r (U4),N1r ,Sur
+332,03/19/2021,,,,,1049302,1284617,140,0,7.102222205,-73.06944438,-28.8875,-4.9527,Manantial La Union - Tipo: Manantial,10.7341,Manantial La Union,Subterranea,Sur,Manantial,Campo,3,Seca,,2021,QMsr,Q,
+S16,03/18/2021,,124.1,,,1068278,1304017,117,33,7.102222205,-73.06944438,-38.1953,-6.643,Finca Buenos Aires I,14.9487,Finca Buenos Aires I,Subterranea,Sur,Pozo Somero,Campo,3,Seca,,2021,N1r (U3),N1r ,Sur
+S12,03/17/2021,,1220,,,1041824,1314630,104,0,7.102222205,-73.06944438,-36.5357,-6.4622,Manantial  - Criadero caballos,15.1619,Manantial Criadero caballos,Subterranea,Sur,Manantial,Campo,3,Seca,,2021,N1r (U4),N1r ,Sur
+316,03/17/2021,,3.7,,,1037565,1316213,43,0,7.102222205,-73.06944438,-27.76,-3.6325,Cienaga Paredes,1.3,Cienaga Paredes Norte,Superficial,Sur,Cienaga,Campo,3,Seca,,2021,Q,Q,Sur
+S6,03/18/2021,,,,,1072049,1316917,130,0,7.125555523,-73.06000002,-34.7061,-5.8915,Bajo rio Negro Santander,12.4259,Manantial Monte Rojo,Subterranea,Sur,Manantial,Campo,3,Seca,,2021,N1r (U3),N1r ,Sur
+445,03/20/2021,,91,,,1014971,1372192,35,0,7.125555523,-73.06000002,-22.9159,-2.5405,Cienaga Simiti,-2.5919,Cienaga Simiti,Superficial,Norte,Cienaga,Campo,3,Seca,,2021,Qfl,Q,
+M20914,12/20/2023,,,,,,,113,2774,7.125555523,-73.06000002,-22.9,4.93,,-62.34,Lisama 29 Tesoro,Subterranea,Sur,Pozo Petrolifero,ANH-SGI,1,Seca,,2024,Mugrosa,,
+M20917,12/20/2023,,,,,,,112,2941,7.125555523,-73.06000002,-18.31,2.51,,-38.39,Suerte 60_Provincia,Subterranea,Sur,Pozo Petrolifero,ANH-SGI,1,Seca,,2024,Esmeralda,,Sur
+M20918,12/21/2023,,,,,,,122,2544,7.125555523,-73.06000002,-13.31,1.55,,-25.71,Santos 125,Subterranea,Sur,Pozo Petrolifero,ANH-SGI,1,Seca,,2024,Esmeralda,,Sur
+M20913,12/20/2023,,,,,,,151,2190,7.125555523,-73.06000002,-18.98,4.98,,-58.82,Llanito 170,Subterranea,Sur,Pozo Petrolifero,ANH-SGI,1,Seca,,2024,Mugrosa,,
+K42,05/01/2022,,,,,,,100,0,7.125555523,-73.06000002,-62.98,-8.64,,6.14,Manati Blanco,Subterranea,Sur,Manantial,Kale_lluvia,5,Humeda,,2022,,,Sur
+K51,06/01/2022,,,,,,,100,0,7.125555523,-73.06000002,-61.19,-8.91,,10.09,Manati Blanco,Subterranea,Sur,Manantial,Kale_lluvia,6,Humeda,,2022,,,Sur
+K60,07/01/2022,,,,,,,100,0,7.125555523,-73.06000002,-61.03,-8.92,,10.33,Manati Blanco,Subterranea,Sur,Manantial,Kale_lluvia,7,Humeda,,2022,,,Sur
+S72,11/23/2020,,146,,7.75,1017975,1307151,49,0,7.125555523,-73.06000002,-61.98,-9.48,Ecopetrol - Cantagallo,13.86,Rio Magdalena Cantagallo Ecopetrol,Superficial,Sur,Rio,Campo,11,Humeda,,2020,Q,Q,Sur
+S71,11/23/2020,,146,,7.51,1018106,1307488,49,0,7.125555523,-73.06000002,-61.93,-9.34,Captacion Cantagallo,12.79,Rio Magdalena Cantagallo Captacion,Superficial,Sur,Rio,Campo,11,Humeda,,2020,Q,Q,Sur
+S70,11/25/2020,,180,,7.94,1018386,1309355,49,0,7.125555523,-73.06000002,-59.66,-9.24,Rio Magdalena (Cantagallo),14.26,Rio Magdalena Cantagallo,Superficial,Sur,Rio,Campo,11,Humeda,,2020,Q,Q,Sur
+S69,11/24/2020,,45,,6.33,1020839,1304639,30,0,7.125555523,-73.06000002,-59.31,-9.08,Cienaga Yariri I centro,13.33,Cienaga Yariri,Superficial,Sur,Cienaga,Campo,11,Humeda,,2020,Q,Q,Sur
+K38,04/01/2021,,,,,,,54,0,7.125555523,-73.06000002,-58.57,-8.13,,6.47,hle5,Superficial,Sur,Cienaga,Kale_platero,4,Humeda,,2021,,,Sur
+,11/23/2020,,172,,7.71,1016830,1288742,52,0,7.125555523,-73.06000002,-61.47,-9.08,R Sogamoso - R Magdalena 1,11.17,Rio Sogamoso Desembocadura,Superficial,Sur,Rio,Campo,11,Humeda,,2020,Q,Q,
+,11/23/2020,,155,,7.86,1018797.56,1317109.5,20,0,7.125555523,-73.06000002,-61.43,-9.31,Rio Magdalena - San Pablo 1,13.05,Rio Magdalena San Pablo,Superficial,Sur,Rio,Campo,11,Humeda,,2020,Q,Q,
+M20940,12/28/2023,,,,,,,118,0,7.125555523,-73.06000002,-60.46,-8.99,,11.46,Sogamoso,Superficial,Sur,Rio,ANH-SGI,1,Seca,,2024,,,
+,11/25/2020,,166,,7.86,1020084,1275237,56,0,7.125555523,-73.06000002,-60.07,-9.34,Rio Magdalena,14.65,Rio Magdalena en Barrancabermeja,Superficial,Sur,Rio,Campo,11,Humeda,,2020,Q,Q,
+M20882,12/19/2023,,,,,,,113,0,7.125555523,-73.06000002,-59.44,-8.81,,11.04,Puente Sogamoso,Superficial,Sur,Rio,ANH-SGI,1,Seca,,2024,,,
+M20942,12/28/2023,,,,,,,434,0,7.125555523,-73.06000002,-58.31,-8.83,,12.33,RIO CHUCURÍ ,Superficial,Sur,Rio,ANH-SGI,1,Seca,,2024,,,
+,11/09/2020,,232,,7.5,1057767,1283842,104,0,7.735,-73.052,-57.25,-8.84,R.Sogamoso,13.47,Rio Sogamoso Ruta del Sol,Superficial,Sur,Rio,Campo,11,Humeda,,2020,Q,Q,
+,11/25/2020,,70,,6.31,1016830,1288742,52,0,7.735,-73.052,-56.25,-8.77,Desembocadura Rio Sogamoso,13.91,Rio Sogamoso Desembocadura,Superficial,Sur,Rio,Campo,11,Humeda,,2020,Q,Q,
+K28,04/01/2021,,,,,,,64,0,7.735,-73.052,-56,-8.34,,10.72,hlo24,Superficial,Sur,Rio,Kale_platero,4,Humeda,,2021,,,
+K29,04/01/2021,,,,,,,65,0,7.735,-73.052,-53.13,-7.97,,10.63,hlo26,Superficial,Sur,Quebrada,Kale_platero,4,Humeda,,2021,,,Sur
+N32,11/28/2020,,100,,6.97,1039015,1377914,33,0,7.735,-73.052,-53.06,-8.34,Rio Lebrija (Barranca-Lebrija),13.66,Río Lebrija en Barrancalebrija,Superficial,Norte,Rio,Campo,11,Humeda,,2020,Q,Q,Norte
+318,03/17/2021,,8.9,,,1057767,1283842,104,0,7.735,-73.052,-52.9303,-8.4976,Rio Sogamoso,15.0505,Rio Sogamoso Ruta del Sol,Superficial,Sur,Rio,Campo,3,Seca,,2021,Q,Q,
+M20883,12/19/2023,,,,,,,47,0,7.735,-73.052,-52.37,-7.86,,10.51,Rio Magdalena en Vijagual,Superficial,Sur,Rio,ANH-SGI,1,Seca,,2024,,,
+M20884,12/19/2023,,,,,,,74.86,0,7.735,-73.052,-52.23,-7.94,,11.29,Río Lebrija ,Superficial,Sur,Rio,ANH-SGI,1,Seca,,2024,,,
+M20941,12/19/2023,,,,,,,195,0,7.735,-73.052,-51.78,-7.68,,9.66,Represa,Superficial,Sur,Rio,ANH-SGI,1,Seca,,2024,,,
+419,03/17/2021,,203,,8.5,1043855,1293377,75,0,7.735,-73.052,-51.1671,-8.3158,Rio Sogamoso- Puerto Cayumba,15.3593,Rio Sogamoso Puerto Cayumba,Superficial,Sur,Rio,Campo,3,Seca,,2021,Q,Q,
+M20879,12/19/2023,,,,,,,67.22,0,7.735,-73.052,-51.03,-7.72,,10.73,Muelle Barrancabermeja,Superficial,Sur,Rio,ANH-SGI,1,Seca,,2024,,,
+K36,04/01/2021,,,,,,,75,0,7.735,-73.052,-51.01,-7.82,,11.55,Slo10-Rioogamoso,Superficial,Sur,Rio,Kale_platero,4,Humeda,,2021,,,
+S30,04/21/2023,,335,27.8,8.1,1018166,1308554,49,,7,-73,-43.4,-7.11,,13.48,Río Magdalena,Superficial,Sur,Rio,ZEMS,4,Humeda,,2023,,,Sur
+M20885,12/19/2023,,,,,,,65,0,7,-73,-50.37,-7.57,,10.19,Rio Lebríja - desembocadura ,Superficial,Sur,Rio,ANH-SGI,1,Seca,,2024,,,
+,11/07/2020,,133,,7.55,1036654,1411670,29,0,7,-73,-48.98,-7.69,Rio Magdalena,12.54,Rio Magdalena en Gamarra,Superficial,Norte,Rio,Campo,11,Humeda,,2020,Q,Q,
+K31,04/01/2021,,,,,,,89,0,7,-73,-42.26,-6.09,,6.46,Slo4,Superficial,Sur,Quebrada,Kale_platero,4,Humeda,,2021,,,Sur
+K20,04/01/2021,,,,,,,73,0,7,-73,-41.97,-6.42,,9.39,hlo8,Superficial,Sur,Quebrada,Kale_platero,4,Humeda,,2021,,,Sur
+K33,04/01/2021,,,,,,,93,0,7,-73,-40.84,-6.49,,11.08,Slo7,Superficial,Sur,Quebrada,Kale_platero,4,Humeda,,2021,,,Sur
+M20881,12/20/2023,,,,,,,104,0,7,-73,-47.94,-2.9,,-24.74,Cienaga Llanito,Superficial,Sur,Cienaga,ANH-SGI,1,Seca,,2024,,,
+,11/10/2020,,203,,7.83,1072272,1350545,95,0,7,-73,-46.76,-7.57,QuebSanIsidro,13.8,Quebrada San Isidro,Superficial,Norte,Quebrada,Campo,11,Humeda,,2020,Q,Q,
+M20880,12/19/2023,,,,,,,93,0,7,-73,-46.07,-6.56,,6.41,Ciénaga Chucuri,Superficial,Sur,Cienaga,ANH-SGI,1,Seca,,2024,,,
+K40,04/01/2021,,,,,,,65,0,7,-73,-39.84,-5.93,,7.6,hle9,Superficial,Sur,Cienaga,Kale_platero,4,Humeda,,2021,,,Sur
+K32,04/01/2021,,,,,,,76,0,7,-73,-38.92,-6.11,,9.96,Slo5,Superficial,Sur,Quebrada,Kale_platero,4,Humeda,,2021,,,Sur
+,11/10/2020,,262,,8.56,1051079,1419536,206,0,7,-73,-45.08,-7.27,Quebrada Norean,13.08,Quebrada Norean,Superficial,Norte,Quebrada,Campo,11,Humeda,,2020,Q,Q,
+N13,03/18/2021,,227,,7.3,1059799,1381384,107,0,7,-73,-44.6144,-7.097,Quebrada Samua,12.1616,Quebrada Samua,Superficial,Norte,Quebrada,Campo,3,Seca,,2021,Q,Q,Norte
+K37,04/01/2021,,,,,,,74,0,7,-73,-44.54,-6.95,,11.06,Slo11-RioMagdalena,Superficial,Sur,Rio,Kale_platero,4,Humeda,,2021,,,
+S21,04/19/2023,,26.1,28.4,5.37,1058269.57,1308376.88,98,,7,-73,-38.71,-6.76,,15.37,Quebrada de Gomez,Superficial,Sur,Quebrada,ZEMS,4,Humeda,,2023,,,Sur
+K34,04/01/2021,,,,,,,70,0,7,-73,-38.7,-6.09,,10.02,Slo8,Superficial,Sur,Quebrada,Kale_platero,4,Humeda,,2021,,,Sur
+K19,04/01/2021,,,,,,,65,0,7,-73,-38.03,-5.83,,8.61,hlo3,Superficial,Sur,Quebrada,Kale_platero,4,Humeda,,2021,,,Sur
+115,03/16/2021,,305,,8.4,1051079,1419536,206,0,7,-73,-43.8267,-7.0373,Norean,12.4717,Quebrada Norean,Superficial,Norte,Quebrada,Campo,3,Seca,,2021,Q,Q,
+,11/05/2020,,140,,7.61,1042240,1402214,55,0,7,-73,-43.78,-6.89,Quebrada Buturama,11.34,Quebrada Buturama,Superficial,Norte,Quebrada,Campo,11,Humeda,,2020,Q,Q,
+K21,04/01/2021,,,,,,,71,0,7,-73,-37.52,-5.98,,10.32,hlo9,Superficial,Sur,Quebrada,Kale_platero,4,Humeda,,2021,,,Sur
+K23,04/01/2021,,,,,,,72,0,7,-73,-36.32,-5.77,,9.84,hlo11,Superficial,Sur,Quebrada,Kale_platero,4,Humeda,,2021,,,Sur
+S7,04/20/2023,,414,29.7,6.7,1021495,1298988,107,,7,-73,-36.11,-6.09,,12.61,Quebrada,Superficial,Sur,Quebrada,ZEMS,4,Humeda,,2023,,,Sur
+K39,04/01/2021,,,,,,,58,0,7,-73,-35.51,-5.31,,6.97,hle8,Superficial,Sur,Cienaga,Kale_platero,4,Humeda,,2021,,,Sur
+K24,04/01/2021,,,,,,,67,0,7,-73,-34.92,-5.88,,12.12,hlo16,Superficial,Sur,Quebrada,Kale_platero,4,Humeda,,2021,,,Sur
+K22,04/01/2021,,,,,,,69,0,7.393208688,-72.89168611,-30.21,-4.49,,5.71,hlo10,Superficial,Sur,Quebrada,Kale_platero,4,Humeda,,2021,,,Sur
+K35,04/01/2021,,,,,,,68,0,7.393208688,-72.89168611,-30.15,-4.83,,8.49,Slo9,Superficial,Sur,Quebrada,Kale_platero,4,Humeda,,2021,,,Sur
+K18,04/01/2021,,,,,,,59,0,7.393208688,-72.89168611,-28.69,-4.18,,4.75,hlo1,Superficial,Sur,Quebrada,Kale_platero,4,Humeda,,2021,,,Sur
+S3,04/21/2023,,49.3,27.2,6.88,1026089,1302577,79,,7.393208688,-72.89168611,-28.41,-4.76,,9.67,Quebrada km8,Superficial,Sur,Quebrada,ZEMS,4,Humeda,,2023,,,Sur
+S4,04/20/2023,,45.2,26.4,6.4,1041782,1297796,107,,7.402228171,-72.89065678,-28.35,-5.26,,13.73,Quebrada,Superficial,Sur,Quebrada,ZEMS,4,Humeda,,2023,,,Sur
+K25,04/01/2021,,,,,,,63,0,7.402228171,-72.89065678,-19.32,-1.74,,-5.4,hlo19,Superficial,Sur,Quebrada,Kale_platero,4,Humeda,,2021,,,Sur
+K30,04/01/2021,,,,,,,66,0,7.402228171,-72.89065678,-16.27,-1.67,,-2.91,Slo1,Superficial,Sur,Quebrada,Kale_platero,4,Humeda,,2021,,,Sur
+K26,04/01/2021,,,,,,,66,0,7.402228171,-72.89065678,-15.22,-1.04,,-6.9,hlo21,Superficial,Sur,Quebrada,Kale_platero,4,Humeda,,2021,,,Sur
+K27,04/01/2021,,,,,,,59,0,7.402228171,-72.89065678,-6.23,0.59,,-10.95,hlo22,Superficial,Sur,Quebrada,Kale_platero,4,Humeda,,2021,,,Sur
+,11/09/2020,,146,,7.6,1066307,1368838,102,0,7.402228171,-72.89065678,-41.46,-6.98,QuebTorcoroma,14.38,Quebarada Torcorama,Superficial,Norte,Quebrada,Campo,11,Humeda,,2020,Q,Q,
+S1,04/21/2023,,75.4,28,4.6,1023065,1305593,30,,7.402228171,-72.89065678,-5.81,-0.93,,1.63,Cienaga Yariri,Superficial,Sur,Cienaga,ZEMS,4,Humeda,,2023,,,Sur
+M20937,12/19/2023,,,,,,,66.98,0,7.402228171,-72.89065678,-53.15,-7.95,,10.45,Puerto Willches,Superficial,Sur,Rio,ANH-SGI,1,Seca,,2024,,,Sur
+M20938,12/19/2023,,,,,,,101.87,0,7.402228171,-72.89065678,-52.34,-8.09,,12.38,Rio Lebríja ,Superficial,Sur,Rio,ANH-SGI,1,Seca,,2024,,,Sur
+230,03/20/2021,,129,,7.8,1076260,1349572,118,0,7.402228171,-72.89065678,-40.0942,-6.9755,Rio San Alberto- Espiritu santo- Panamericana,15.7098,Rio San Alberto en  Panamericana,Superficial,Norte,Rio,Campo,3,Seca,,2021,Q,Q,
+138,03/22/2021,,,,,1013954,1330294,77,0,7.402228171,-72.89065678,-39.0276,-6.3323,quebrada wpi,11.6308,Quebrada Wpi,Superficial,Norte,Quebrada,Campo,3,Seca,,2021,N1r (U3),N1r ,
+136,03/20/2021,,194.5,,,1036654,1411670,29,0,7.402228171,-72.89065678,-38.2155,-6.3959,Rio Magdalena,12.9517,Rio Magdalena en Gamarra,Superficial,Norte,Rio,Campo,3,Seca,,2021,Q,Q,
+426,03/18/2021,,335,,7.5,1012975,1295503,57,,7.402228171,-72.89065678,-37.9855,-5.8489,Cano Patico,8.8057,Cano Patico,Superficial,Sur,Quebrada,Campo,3,Seca,,2021,Q,Q,
+401,03/15/2021,,380,,8,1020084,1275237,56,0,7.402228171,-72.89065678,-37.8149,-6.2994,Rio Magdalena,12.5803,Rio Magdalena en Barrancabermeja,Superficial,Sur,Rio,Campo,3,Seca,,2021,Q,Q,
+210,03/16/2021,,150,,7.8,1066307,1368838,102,0,7.402228171,-72.89065678,-37.578,-6.41,Quebrada Torcoroma,13.702,Quebarada Torcorama,Superficial,Norte,Quebrada,Campo,3,Seca,,2021,Q,Q,
+S35,03/20/2021,,141,,,1018386,1309355,49,0,7.402228171,-72.89065678,-43.502,-7.3392,Rio Magdalena,15.2116,Rio Magdalena Cantagallo,Superficial,Sur,Rio,Campo,3,Seca,,2021,Q,Q,Sur
+139,03/22/2021,,,,,1016345,1363505,82,0,7.402228171,-72.89065678,-37.2353,-6.2238,rio boque,12.5551,Rio Boque,Superficial,Norte,Rio,Campo,3,Seca,,2021,Qfl,Q,
+205,03/15/2021,,487,,7.2,1072272,1350545,95,0,7.402228171,-72.89065678,-37.1861,-6.2425,Q. Vereda San Isidro,12.7539,Quebrada San Isidro,Superficial,Norte,Quebrada,Campo,3,Seca,,2021,Q,Q,
+N12,03/19/2021,,222,,7.5,1061561,1377970,90,0,7.14139,-73.11833,-37.1051,-6.1159,Quebrada la Rayita ,11.8221,Quebrada La Rayita o Bejuco,Superficial,Norte,Quebrada,Campo,3,Seca,,2021,Q,Q,Norte
+232,03/20/2021,,89.5,,7.5,1075513,1359400,345,0,7.14139,-73.11833,-36.7023,-6.5727,Q. Guaduas- Represa C.R Guaduas,15.8793,Quebrada Guaduas Represa,Superficial,Norte,Quebrada,Campo,3,Seca,,2021,J1b,J,
+231,03/20/2021,,118,,7.6,1071346,1343764,87,0,7.14139,-73.11833,-36.2827,-6.5857,Rio San Alberto- Puerto Carreno/indupalma,16.4029,Rio San Alberto en indupalma,Superficial,Norte,Rio,Campo,3,Seca,,2021,Q,Q,
+M20939,12/19/2023,,,,,,,100,0,7.14139,-73.11833,-42.94,-6.75,,11.06,Quebrada La Gomez ,Superficial,Sur,Rio,ANH-SGI,1,Seca,,2024,,,Sur
+233,03/20/2021,,170,,7.6,1071995,1357825,96,0,7.14139,-73.11833,-32.7796,-5.7569,Q. Guaduas- Sobre la panamericana,13.2756,Quebrada Guadas ruta del Sol,Superficial,Norte,Quebrada,Campo,3,Seca,,2021,Q,Q,
+S17,03/19/2021,,,,,1058943,1308421,98,0,7.14139,-73.11833,-40.3882,-6.7077,Quebrada La Gomez - Tipo: Quebrada,13.2734,Quebrada La Gomez,Superficial,Sur,Quebrada,Campo,3,Seca,,2021,N1r (U4),N1r ,Sur
+N10,09/20/2023,,907,33.7,7.6,1039329.83,1377651.18,33,,7.14139,-73.11833,-29.28,-4.49,,6.64,Río Lebrija,Superficial,Norte,Rio,ZEMS,9,Seca,,2023,,,Norte
+N6,09/20/2023,,1059,34,10.2,1039149.75,1379328.1,30,,7.14139,-73.11833,-20.88,-2.79,,1.44,Cienaga la Musandra,Superficial,Norte,Cienaga,ZEMS,9,Seca,,2023,,,Norte
+N1,09/21/2023,,1052,36.6,,1040253.29,1376360.22,33,,7.14139,-73.11833,-7.67,-1.78,,6.57,Cienaga La Quebradita,Superficial,Norte,Cienaga,ZEMS,9,Seca,,2023,,,Norte
