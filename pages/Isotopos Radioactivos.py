@@ -26,6 +26,9 @@ with st.sidebar:
         <div style="text-align: left;">
             <p><strong>Prof. Adriana Piña</strong><br> Universidad Nacional de Colombia</p>
         </div>
+        <div style="text-align: rigth;">
+            <p><strong>Colaborador:</strong><br> Pedro José Romero</p>
+        </div>
         """,
         unsafe_allow_html=True
     )
