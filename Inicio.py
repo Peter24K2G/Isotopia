@@ -27,7 +27,7 @@ with st.sidebar:
         unsafe_allow_html=True
     )
 st.markdown("""
-# Introducción a la Isotopía en Hidrogeología
+## Introducción a la Isotopía en Hidrogeología
 
 El uso de isótopos en hidrogeología permite rastrear el origen, la edad y los procesos que afectan al agua subterránea. Los isótopos pueden ser estables, como el **oxígeno-18 (¹⁸O) y el deuterio (²H)**, o radiactivos, como el **tritio (³H) y el carbono-14 (¹⁴C)**, cada uno con aplicaciones específicas en la evaluación de recursos hídricos.
 
