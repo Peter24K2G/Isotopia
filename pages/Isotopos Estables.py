@@ -636,7 +636,7 @@ elif st.session_state.page == 6:
                 
      EL uso de isótopos para la identificación de posibles zonas de recarga puede estudiarse por medio de la medición del $\delta^{18}O$ relacionando la cantidad isotópica de aguas de infiltración o subterráneas con la elevación las muestras superficiales del sector. 
     """)
-    st.image("images\MetElevacion.png")
+    st.image("images/MetElevacion.PNG")
     df = pd.read_excel("data.xlsx",sheet_name="data")
     df = df.dropna(subset=["18O","2H","Elevacion","Tipo"])
     st.divider()
