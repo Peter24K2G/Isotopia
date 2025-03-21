@@ -150,7 +150,7 @@ elif st.session_state.page == 2:
         df = pd.read_csv("BDIsotopos.csv",sep=",") 
         st.session_state.df = df  # Asignar df a session_state
     elif df_selection == "MEGIA Isotopes":
-        df = pd.read_csv("Insumos\MEGIA_ISOTOPOS_ESTABLES (version 1).csv",sep=",")
+        df = pd.read_csv("Insumos/MEGIA_ISOTOPOS_ESTABLES (version 1).csv",sep=",")
         st.session_state.df = df  # Asignar df a session_state
 
     # df['Fecha'] = pd.to_datetime(df['Fecha'], dayfirst=True,format='mixed')
